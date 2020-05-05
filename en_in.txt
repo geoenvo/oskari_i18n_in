@@ -1,0 +1,172 @@
+#
+# English - Bahasa Indonesia Translation (Oskari v1.55.2)
+#
+en==in
+Cancel==Batal
+Save==Simpan
+Close==Tutup
+Start==Mulai
+Finish==Selesai
+Next==Berikutnya
+Previous==Sebelumnya
+Add==Tambah
+Remove==Hapus
+Welcome==Selamat Datang
+Do not show this message again.==Jangan tampilkan pesan ini lain kali.
+Session Expired==Sesi Telah Berakhir
+Your session has expired. Please refresh the page and log in again.==Sesi Anda telah berakhir. Silakan perbarui laman dan login kembali.
+Are you here for the first time? Our quick guide will help you to get started.==Apakah Anda baru pertama kali mengakses ini? Panduan pengguna kami akan membantu Anda untuk memulai.
+Logging in==Login Pengguna
+This is an example Oskari application. Use \"user\" as both username and password to log in as a regular user. And use \"admin\" as username and \"oskari\" as password to log in as admin.==Ini adalah contoh aplikasi Oskari. Gunakan \"user\" untuk username dan password untuk login sebagai pengguna. Untuk login sebagai admin gunakan \"admin\" untuk username dan \"oskari\" untuk password.
+Search==Pencarian
+In the Search menu you can search locations and spatial data <br/><br/>  Location Search: Search locations by placenames, address or real estate identifiers. Click the result and the map will be focused on the selected location. <br/><br/> Metadata Search: Search datasets, dataset series and services. Use a simple text search or advanced search conditions. In the search results you can open a metadata description or open the selected data on the map, if the map layer is available.==Di menu Pencarian Anda dapat melakukan pencarian untuk lokasi dan data spasial <br/><br/>  Pencarian Lokasi: Cari lokasi menurut nama, alamat, atau penanda perumahan. Klik hasil pencarian untuk memusatkan  peta pada lokasi yang terpilih. <br/><br/> Pencarian Metadata: Lakukan pencarian untuk dataset, seri dataset, maupun service. Gunakan pencarian teks sederhana atau pencarian lanjutan dengan kondisi tambahan. Pada hasil pencarian Anda dapat membuka deksripsi metadata, atau data yang terpilih pada peta jika layer yang terkait tersedia.
+Location Search==Pencarian Lokasi
+Metadata Search==Pencarian Metadata
+Search location by placename, address or real estate unit identifier.==Cari lokasi menurut nama, alamat, atau penanda perumahan.
+Type search term==Ketik istilah pencarian
+Search spatial resources in other words spatial datasets, dataset series and services.==Lakukan pencarian untuk dataset, seri dataset, maupun service.
+Hide Search==Tutup Pencarian
+Show Search==Tampilkan Pencarian
+Show search options==Tampilkan setelan pencarian
+Hide search options==Tutup setelan pencarian
+Search area==Area pencarian
+Limit the search area on the map==Batasi area pencarian pada peta
+Map layers==Layer Peta
+Map Layers==Layer Peta
+Add a new map layer==Tambah layer peta baru
+Layer administration==Administrasi layer
+Map layer details==Detail layer peta
+Map layer type==Jenis layer peta
+Select the type of the service for layer you are adding==Pilih tipe service dari layer yang akan ditambahkan
+Fill in the url and version for the service==Isi URL dan versi dari service
+Username and password==Username dan password
+Add manually==Tambah secara manual
+Back to previous step==Ke langkah sebelumnya
+Dataprovider==Penyedia data
+Add a new layer from same service==Tambah layer baru dari service ini
+The map layer will be removed. Do you want to continue?==Layer peta ini akan dihapus. Apakah Anda yakin?
+Add dataprovider==Tambah penyedia data
+Add theme==Tambah tema
+In the Map Layers menu you can find all the map layers in the map service.<br/><br/>Sort map layers by theme or data provider.<br/><br/>Search map layers by a map layer name, a data provider name or a keyword. Newest map layers, vector layers and publishable layers you can find in pre-defined lists.<br/><br/>You can check currently open map layers in the Selected Layers tab. You can rearrange the layers by dragging, adjust their opacity and change the styling of some layers.==Di menu Layer Peta Anda dapat menemukan semua layer peta dari service.<br/><br/>Sortir layer peta menurut tema atau penyedia data.<br/><br/>Cari layer peta menurut nama layer peta, nama penyedia data, atau kata kunci. Layer peta terbaru, layer vektor, dan layer yang dapat dipublikasikan dapat ditemukan di daftar yang tersedia.<br/><br/> Layer peta yang telah diakses dapat dilihat di tab Layer Terpilih. Di tab tersebut Anda dapat mengatur tampilan layer dengan menyeret untuk mengganti urutan, mengubah transparansi (opacity), dan style dari layer.
+Hide Map Layers==Tutup Layer Peta
+Show Map Layers==Tampilkan Layer Peta
+Search map layers==Pencarian layer peta
+Selected layers==Layer terpilih
+Search map layers by name, data producer or keyword==Cari layer peta menurut nama, produsen data, atau kata kunci
+Search map layers by name, data producer or keyword. You can type a whole term or a part of it.==Cari layer peta menurut nama, produsen data, atau kata kunci. Anda dapat memasukkan istilah yang lengkap atau sebagian saja.
+By Theme==Menurut Tema
+By Data Provider==Menurut Penyedia Data
+Show==Tampilkan
+All layers==Semua layer
+Newest==Terbaru
+Show ## newest map layers==Tampilkan ## layer peta terbaru
+My Data==Data Saya
+In the My Data menu you can check all your saved data and profile information. <br/><br/> Check and edit your saved places, map views, embedded maps, indicators, analysis and datasets. <br/><br/> My Data is available only for logged-in users.==Di menu Data Saya Anda dapat melihat semua data Anda yang tersimpan dan informasi profil. <br/><br/> Akses dan edit data Anda yang tersimpan terkait lokasi, view peta, peta yang disematkan, indikator, analisis serta dataset. <br/><br/> Data Saya hanya tersedia untuk pengguna yang telah login.
+Hide My data==Tutup Data Saya
+Show My data==Tampilkan Data Saya
+As a logged-in user you can see here your account information and all your saved places, map views, embedded maps, indicators, analysis and datasets.==Setelah login, di sini Anda dapat melihat informasi tentang akun, lokasi tersimpan, view peta, peta yang disematkan, indikator, analisis serta dataset.
+Map Publishing==Publikasi Peta
+Map publishing==Publikasi Peta
+Create Embedded Map==Buat Peta Untuk Disematkan (Embed)
+In the Map Publishing menu you can publish embedded maps on your own website. <br/><br/> Select map layers, define a website, select tools and desing a layout. Click Save and your map is ready for publishing. Jast copy one line html code to your website. <br/><br/> If you want to update the map, you can find it in the My Data menu. Updates are shown immediately on your map. <br/><br/> Map Publishing is available only for logged-in users.==Di menu Publikasi Peta Anda dapat mempublikasikan peta yang bisa disematkan pada situs web Anda. <br/><br/> Pilih layer peta yang ingin ditampilkan, tentukan situs web tujuan penyematan, pilih tool yang diperlukan, kemudian atur layout tampilan. Klik Simpan dan peta Anda siap untuk dipublikasikan. Terakhir lakukan copy paste satu baris kode html ke situs web Anda. <br/><br/> Untuk memperbarui sebuah peta Anda dapat melakukannya dari menu Data Saya. Perubahan yang dilakukan akan langsung terlihat pada peta Anda. <br/><br/> Publikasi Peta hanya tersedia untuk pengguna yang telah login.
+Hide Map Publishing==Tutup Publikasi Peta
+Show Map Publishing==Tampilkan Publikasi Peta
+Welcome to publish embedded map on your website. Please log in or register first.==Anda dapat mempublikasikan peta untuk disematkan pada situs web Anda. Silakan login atau mendaftar terlebih dahulu.
+Map Legends==Legenda Peta
+Map legends are visual explanations of the symbols and colours used on the map.==Legenda Peta menampilkan simbol dan warna terkait layer yang ditampilkan pada peta.
+Hide Map Legends==Tutup Legenda Peta
+Show Map Legends==Tampilkan Legenda Peta
+No map legends available==Legenda peta tidak tersedia
+User Guide==Panduan Pengguna
+Learn more about how to use this service by reading the User Guide.==Pelajari fitur-fitur dan cara penggunaan aplikasi ini melalui Panduan Pengguna.
+Hide User Guide==Tutup Panduan Pengguna
+Show User Guide==Tampilkan Panduan Pengguna
+Use tools to edit your map view. Keep a mouse pointer on top of tool and you can read instructions for the tool. <br/> <br/> Some of tools are available only for logged-in users.==Gunakan tools untuk mengedit view peta Anda. Letakkan kursor mouse di atas sebuah tool untuk menampilkan instruksi penggunaan tool tersebut. <br/> <br/> Sebagian tools hanya tersedia untuk pengguna yang telah login.
+Pan Map View==Menggeser View Peta
+You can pan the map view in several ways. <br/><br/>  Select a hand tool and drag the map view with a mouse.<br/><br/>  Use arrow keys on your keyboard. <br/><br/>  Click arrows in the panning tool. You can find it in the upper right corner.==Anda dapat menggeser view peta dengan beberapa cara. <br/><br/>  Pilih hand tool dan geser view peta dengan mouse.<br/><br/>  Gunakan tombol arah pada keyboard Anda. <br/><br/>  Klik panah yang terdapat pada panning tool. Tool tersebut berada di pojok kanan atas jendela peta.
+Zoom In and Out Map View==Memperbesar dan Memperkecil View Peta
+You can zoom in and out the map view in several ways. <br/><br/> Select a scale from the zoom bar. You can also click (+) and (-) buttons in the heads of the zoom bar. <br/> <br/> Use (+) and (-) keys in your keyboard. <br/> <br/> Double-click the map view or use a \"magnifier tool\" to zoom in the map view.==Anda dapat memperbesar dan memperkecil view peta dengan beberapa cara. <br/><br/> Pilih skala dari kontrol skala yang terdapat di pojok kanan atas jendela peta. Anda juga dapat mengeklik tombol (+) dan (-) di ujung kontrol skala. <br/> <br/> Tekat tombol (+) dan (-) pada keyboard Anda. <br/> <br/> Klik ganda pada view peta atau gunakan \"magnifier tool\" untuk memperbesar view peta.
+Coordinates==Koordinat
+With the coordinates tool you can see the current coordinates, pan to specific coordinates and add markers.==Dengan \"coordinates tool\" Anda dapat melihat koordinat, menggeser ke koordinat tertentu, atau menambahkan marker.
+Thematic maps==Peta tematik
+Thematic Maps==Peta Tematik
+Move to the original map view==Kembali ke view peta awal
+Show coordinates or type coordinates and focus map on them.==Tampilkan koordinat atau input sebuah koordinat dan pusatkan pada peta.
+Rotate map==Putar peta
+Search data==Pencarian data
+Table==Tabel
+Bar chart==Grafik batang
+Move to the original map view.==Kembali ke view peta awal.
+Move to the previous map view.==Kembali ke view peta sebelumnya.
+Move to the next map view.==Ke view peta berikutnya.
+Zoom in the map view.==Perbesar view peta.
+Pan the map by dragging it with a mouse.==Geser peta dengan cara menggesernya menggunakan mouse.
+Measure a line on the map.==Ukur panjang sebuah garis pada peta.
+Measure an area on the map.==Ukur luas sebuah area pada peta.
+Save a map view.==Simpan view peta.
+Make a link to the map view.==Buat tautan ke view peta.
+Map marker==Marker peta
+Draw a point and add it to your own places. There can be several points in one feature.==Gambar sebuah titik dan tambahkan ke lokasi Anda. Sebuah feature dapat memiliki beberapa titik.
+Draw a line and add it to your own places.==Gambar sebuah garis dan tambahkan ke lokasi Anda.
+Draw an area and add it to your own places.==Gambar sebuah area dan tambahkan ke lokasi Anda.
+Log in to add your own places on a map.==Login untuk menambahkan lokasi Anda pada peta.
+Import your own datasets.==Impor dataset Anda.
+Publishable==Dapat dipublikasikan
+Data Sources==Sumber Data
+Places==Lokasi
+New map layer==Layer peta baru
+Map layer name==Nama layer peta
+Edit map layer==Edit layer peta
+Name==Nama
+Edit point feature style==Edit style untuk feature titik
+Point feature style==Style feature titik
+Icon==Ikon
+Size==Ukuran
+Colour==Warna
+Preview==Pratinjau
+Edit line feature style==Edit style untuk feature garis
+Line feature style==Style feature garis
+Dash==Jenis garis
+Endings==Ujung
+Corners==Sudut
+Width==Lebar
+Edit area feature style==Edit style untuk feature area
+Line colour==Warna garis
+Line dash==Jenis garis
+Line corners==Sudut garis
+Line width==Lebar garis
+Fill colour==Warna isian
+Fill pattern==Pola isian
+Delete map layer==Hapus layer peta
+The default map layer cannot be deleted.==Layer peta default tidak dapat dihapus.
+My Map Layers==Layer Peta Saya
+My map layer==Layer Peta Saya
+My Map Views==View Peta Saya
+Save current view==Simpan view terkini
+Embedded Maps==Peta Yang Disematkan
+My Account==Akun Saya
+First name==Nama depan
+Surname==Nama belakang
+Nickname==Nama panggilan
+Datasets==Dataset
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
