@@ -1,7 +1,6 @@
 #
 # English - Bahasa Indonesia Translation (Oskari v1.55.2)
 #
-en==in
 Cancel==Batal
 Save==Simpan
 Close==Tutup
@@ -59,7 +58,13 @@ By Data Provider==Menurut Penyedia Data
 Show==Tampilkan
 All layers==Semua layer
 Newest==Terbaru
+Vector layers==Layer Vektor
+3D layers==Layer 3D
 Show ## newest map layers==Tampilkan ## layer peta terbaru
+Show only publishable map layers==Hanya tampilkan layer peta yang dapat dipublikasikan
+Show only layers with time series==Hanya tampilkan layer dengan data seri waktu
+Show only vector layers==Hanya tampilkan layer vektor
+Show only 3D-datasets==Hanya tampilkan dataset 3D
 My Data==Data Saya
 In the My Data menu you can check all your saved data and profile information. <br/><br/> Check and edit your saved places, map views, embedded maps, indicators, analysis and datasets. <br/><br/> My Data is available only for logged-in users.==Di menu Data Saya Anda dapat melihat semua data Anda yang tersimpan dan informasi profil. <br/><br/> Akses dan edit data Anda yang tersimpan terkait lokasi, view peta, peta yang disematkan, indikator, analisis serta dataset. <br/><br/> Data Saya hanya tersedia untuk pengguna yang telah login.
 Hide My data==Tutup Data Saya
@@ -72,6 +77,47 @@ In the Map Publishing menu you can publish embedded maps on your own website. <b
 Hide Map Publishing==Tutup Publikasi Peta
 Show Map Publishing==Tampilkan Publikasi Peta
 Welcome to publish embedded map on your website. Please log in or register first.==Anda dapat mempublikasikan peta untuk disematkan pada situs web Anda. Silakan login atau mendaftar terlebih dahulu.
+Welcome to publish embedded map on your website.==Anda dapat mempublikasikan peta untuk disematkan pada situs web Anda.
+Publishable map layers open in map window:==Layer terbuka di jendela peta yang dapat dipublikasikan:
+Unpublishable map layers open in map window:==Layer terbuka di jendela peta yang tidak dapat dipublikasikan:
+Show Terms of Use==Lihat Syarat Penggunaan
+Accept and continue==Terima dan melanjutkan
+Continue==Lanjut
+These map layers are not publishable in embedded maps. Data producers have not granted permissions for publishing or the current map projection is unsupported. Please check publishable map layers in the Selected Layers menu.==Layer peta berikut tidak dapat dipublikasikan dalam peta yang disematkan. Produsen data belum memberikan izin untuk publikasi atau proyeksi peta sekarang tidak didukung. Silakan periksa layer peta yang dapat dipublikasikan di menu Layer Terpilih.
+Basic settings==Setelan dasar
+Map name (required)==Nama peta (wajib diisi)
+Map name==Nama peta
+Restrict embedding only to the following <br>web address:==Batasi penyematan hanya untuk alamat web berikut:
+Type a map name. Please note the language used on the map.==Ketik nama peta. Harap disesuaikan dengan bahasa yang digunakan pada peta.
+Verify typed web address==Periksa kembali alamat web yang diketik
+Type a website URL-address without prefixes or a subpage address. For example: homepage.com.==Ketik URL situs web tanpa prefiks atau subdomain. Contoh: homepage.com.
+Allowed domain==Domain yang diperbolehkan
+Select Color Scheme==Pilih Skema Warna
+Language==Bahasa
+Select a language to be used on the final map. It affects the user interface and text on the map. Note! The language selection is not visible on the preview.==Pilih bahasa yang akan digunakan pada peta. Antarmuka dan teks pada peta akan menyesuaikan dengan bahasa terpilih. Catatan: Pemilihan bahasa tidak terlihat pada pratinjau.
+Map Size==Ukuran Peta
+Select preview mode.==Pilih mode pratinjau.
+Space filling==Mengisi ruang
+Small==Kecil
+Medium==Sedang
+Large==Besar
+Custom size==Ukuran khusus
+width==lebar
+height==tinggi
+The background layer is shown at the bottom layer on the map. If you select several background maps, only one of them can be visible at a time. User can select a background layer in the user interface. Please select a default background map in the map preview.==Layer dasar ditampilkan sebagai layer paling bawah pada peta. Jika Anda memilih beberapa peta dasar, hanya salah satu yang dapat dilihat. Pengguna kemudian akan dapat mengganti peta dasar yang ditampilkan. Silakan pilih peta dasar default pada pratinjau peta.
+Add map layer==Tambahkan layer peta
+Select available map tools. Check a placement in the map preview.==Pilih tool peta yang disediakan. Periksa penempatannya di pratinjau peta.
+Select==Pilih
+Tool Placement==Posisi Tools
+Select a placement for map tools.==Pilih posisi untuk letak tools peta.
+Lefthanded==Sisi kiri
+Righthanded==Sisi kanan
+Custom placement==Peletakan khusus
+Start editing==Mulai edit
+Finish editing==Selesai edit
+Graphic Layout==Penataan Grafis
+Font style==Style font
+Tool style==Style tool
 Map Legends==Legenda Peta
 Map legends are visual explanations of the symbols and colours used on the map.==Legenda Peta menampilkan simbol dan warna terkait layer yang ditampilkan pada peta.
 Hide Map Legends==Tutup Legenda Peta
@@ -90,6 +136,28 @@ Coordinates==Koordinat
 With the coordinates tool you can see the current coordinates, pan to specific coordinates and add markers.==Dengan \"coordinates tool\" Anda dapat melihat koordinat, menggeser ke koordinat tertentu, atau menambahkan marker.
 Thematic maps==Peta tematik
 Thematic Maps==Peta Tematik
+Time series==Seri waktu
+Get data as time series==Ambil data dalam bentuk seri waktu
+Regional division filter (optional)==Filter menurut pembagian wilayah (opsional)
+Select regionset==Pilih wilayah
+Search...==Cari...
+Data source==Sumber data
+Select data source==Pilih sumber data
+Indicator==Indikator
+Indicators==Indikator
+Select data==Pilih data
+Specify contents of the examined data==Spesifikasikan konten dari data yang diperiksa
+You will get more options after choosing data provider and data.==Anda akan mendapat lebih banyak opsi setelah memilih penyedia data dan data.
+Clear==Kosongkan
+Get contents of data==Ambil konten dari data
+No selected indicators==Tidak ada indikator yang terpilih
+SEARCHED DATA==DATA YANG DICARI
+No data selected==Tidak ada data yang dipilih
+Order==Sortir menurut
+Name ascending==Nama A-Z
+Name descending==Nama Z-A
+Value ascending==Nilai naik
+Value descending==Nilai menurun
 Move to the original map view==Kembali ke view peta awal
 Show coordinates or type coordinates and focus map on them.==Tampilkan koordinat atau input sebuah koordinat dan pusatkan pada peta.
 Rotate map==Putar peta
@@ -102,13 +170,36 @@ Move to the next map view.==Ke view peta berikutnya.
 Zoom in the map view.==Perbesar view peta.
 Pan the map by dragging it with a mouse.==Geser peta dengan cara menggesernya menggunakan mouse.
 Measure a line on the map.==Ukur panjang sebuah garis pada peta.
+Measurement Results==Hasil Pengukuran
+Draw a measurable line by clicking its breaking points.==Gambar sebuah garis pengukuran dengan mengeklik pada titik-titik percabangannya.
+Delete all measurements==Hapus semua hasil pengukuran
 Measure an area on the map.==Ukur luas sebuah area pada peta.
+Draw a measurable area by clicking its corner points.==Gambar sebuah area pengukuran dengan mengeklik pada titik-titik sudutnya.
 Save a map view.==Simpan view peta.
+Save Map View==Simpan View Peta
+Description==Deskripsi
+Default view==View default
+Link to Map View==Buat Tautan Ke View Peta
+Show a marker in the center of the map==Tampilkan sebuah marker di tengah peta
+Do not show quick guide==Jangan tampilkan panduan
+Copy the link to the clipboard==Copy tautan ke clipboard
 Make a link to the map view.==Buat tautan ke view peta.
 Map marker==Marker peta
+Map Marker==Marker Peta
+Select a new location for your map marker by clicking the map.==Pilih lokasi baru untuk marker peta Anda dengan mengeklik pada peta.
 Draw a point and add it to your own places. There can be several points in one feature.==Gambar sebuah titik dan tambahkan ke lokasi Anda. Sebuah feature dapat memiliki beberapa titik.
+Add Point==Tambah Titik
+Draw a point by clicking the map.==Gambar sebuah titik dengan mengeklik pada peta.
+Save My Place==Simpan Lokasi Saya
+Add Line to Own Places==Tambah Garis ke Lokasi Saya
+Draw a line to the map. Click breaking points. Finally double-click an ending point and click \"Save My Place\".==Gambar sebuah garis pada peta. Klik untuk membuat titik-titik percabangan. Klik ganda untuk menambahkan titik penutup lalu klik \"Simpan Lokasi Saya\".
+You can draw several points in one feature.==Anda dapat menggambar beberapa titik dalam satu feature.
+You can move breaking points to another location by clicking them with a mouse.==Anda dapat memindahkan titik percabangan ke posisi lain dengan cara mengekliknya.
+You can draw several areas in one feature.==Anda dapat menggambar beberapa area dalam satu feature.
 Draw a line and add it to your own places.==Gambar sebuah garis dan tambahkan ke lokasi Anda.
 Draw an area and add it to your own places.==Gambar sebuah area dan tambahkan ke lokasi Anda.
+Add Area to Own Places==Tambah Area ke Lokasi Saya
+Draw an area to the map. Click breaking points. Finally double-click an ending point and click \"Save My Place\".==Gambar sebuah area pada peta. Klik untuk membuat titik-titik percabangan. Klik ganda untuk menambahkan titik penutup lalu klik \"Simpan Lokasi Saya\".
 Log in to add your own places on a map.==Login untuk menambahkan lokasi Anda pada peta.
 Import your own datasets.==Impor dataset Anda.
 Publishable==Dapat dipublikasikan
@@ -149,24 +240,21 @@ First name==Nama depan
 Surname==Nama belakang
 Nickname==Nama panggilan
 Datasets==Dataset
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Layer Rights==Hak Akses Layer
+Map Layer==Layer Peta
+A: Users==A: Pengguna
+Users==Pengguna
+A: Roles==A: Role (Peran)
+User management==Manajemen Pengguna
+Last name==Nama belakang
+Administration==Administrasi
+Retype password==Ketik ulang password
+Select role==Pilih role
+Add role:==Tambah role:
+Delete==Hapus
+Default Views==View Default
+Define map layers, zoom level and map view area. Set the map view as the default view  by pressing 'Set as default view'.==Definisikan daftar susunan layer peta, tingkat pembesaran, dan area view peta. Jadikan view peta tersebut sebagai view default dengan mengeklik 'Jadikan sebagai view default'
+Set as default view==Jadikan sebagai view default
+*Global Default View*==*View Default Global*
+Saving Succeeded==Berhasil Disimpan
+The default view (id=${id}) has been updated.==View default (id=${id}) berhasil diperbarui.

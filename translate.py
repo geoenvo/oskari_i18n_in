@@ -9,13 +9,17 @@ import sys
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Generate translated Oskari language .js file from language string mapping file')
-    parser.add_argument('-m', '--mapping', help='language string mapping file', type=str, nargs='?', default='en_in.txt')
+    parser.add_argument('-m', '--mapping', help='Translation string mapping file', type=str, nargs='?', default='en_in.txt')
     parser.add_argument('-i', '--input', help='Input Oskari language .js file', type=str, nargs='?', default='oskari_lang_en.js')
+    parser.add_argument('-idi', '--id-input', help='Language ID of input Oskari language .js file', type=str, nargs='?', default='en')
     parser.add_argument('-o', '--output', help='Output Oskari language .js file', type=str, nargs='?', default='oskari_lang_in.js')
+    parser.add_argument('-ido', '--id-output', help='Language ID of output Oskari language .js file', type=str, nargs='?', default='in')
     args = parser.parse_args()
     mapping = args.mapping
     input = args.input
+    id_input = args.id_input
     output = args.output
+    id_output = args.id_output
     if not os.path.isfile(mapping):
         print("The mapping file '{}' does not exist".format(mapping))
         sys.exit()
@@ -30,9 +34,16 @@ if __name__ == '__main__':
     except IOError as io_err:
         os.makedirs(output_dirname)
         shutil.copy(input, output)
+    # read output file content to string
     output_file_string = ""
     with open(output, 'r') as file_output:
         output_file_string = file_output.read()
+    # replace input language id with output language id
+    input_string = "\"{}\"".format(id_input)
+    output_string = "\"{}\"".format(id_output)
+    print("Input string=={}".format(input_string))
+    print("Output string=={}".format(output_string))
+    output_file_string = output_file_string.replace(input_string, output_string)
     # loop mapping file and replace string in output js file
     with open(mapping, 'r') as file_mapping:
         lines_mapping = file_mapping.readlines() 
