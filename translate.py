@@ -39,8 +39,9 @@ if __name__ == '__main__':
     with open(output, 'r') as file_output:
         output_file_string = file_output.read()
     # replace input language id with output language id
-    input_string = "\"{}\"".format(id_input)
-    output_string = "\"{}\"".format(id_output)
+    # only replace the string on the right side of colon character
+    input_string = ":\"{}\"".format(id_input)
+    output_string = ":\"{}\"".format(id_output)
     print("Input string=={}".format(input_string))
     print("Output string=={}".format(output_string))
     output_file_string = output_file_string.replace(input_string, output_string)
@@ -59,15 +60,20 @@ if __name__ == '__main__':
                 continue
             language_string_split = language_string.split('==', 1)
             # replace whole input string with quotes to avoid replacing a match within a string!
-            input_string = "\"{}\"".format(language_string_split[0])
-            output_string = "\"{}\"".format(language_string_split[1])
+            # only replace the string on the right side of colon character
+            input_string = ":\"{}\"".format(language_string_split[0])
+            output_string = ":\"{}\"".format(language_string_split[1])
+            # replace <space> placeholder on end of output string
+            output_string = output_string.replace('<space>', ' ')
             print("Line {}: {}".format(count, language_string))
             print("Input string=={}".format(input_string))
             print("Output string=={}".format(output_string))
             output_file_string = output_file_string.replace(input_string, output_string)
             # do not replace key matches, replace it back to original! example: "key":"Search" not "key":"Pencarian"
-            output_key_string = "\"key\":{}".format(output_string)
-            input_key_string = "\"key\":{}".format(input_string)
+            output_key_string = "\"key\"{}".format(output_string)
+            input_key_string = "\"key\"{}".format(input_string)
+            print("Output key string=={}".format(output_key_string))
+            print("Input key string=={}".format(input_key_string))
             output_file_string = output_file_string.replace(output_key_string, input_key_string)
     # write replaced output string to output file
     ##print output_file_string

@@ -46,7 +46,7 @@ Add a new layer from same service==Tambah layer baru dari service ini
 The map layer will be removed. Do you want to continue?==Layer peta ini akan dihapus. Apakah Anda yakin?
 Add dataprovider==Tambah penyedia data
 Add theme==Tambah tema
-In the Map Layers menu you can find all the map layers in the map service.<br/><br/>Sort map layers by theme or data provider.<br/><br/>Search map layers by a map layer name, a data provider name or a keyword. Newest map layers, vector layers and publishable layers you can find in pre-defined lists.<br/><br/>You can check currently open map layers in the Selected Layers tab. You can rearrange the layers by dragging, adjust their opacity and change the styling of some layers.==Di menu Layer Peta Anda dapat menemukan semua layer peta dari service.<br/><br/>Sortir layer peta menurut tema atau penyedia data.<br/><br/>Cari layer peta menurut nama layer peta, nama penyedia data, atau kata kunci. Layer peta terbaru, layer vektor, dan layer yang dapat dipublikasikan dapat ditemukan di daftar yang tersedia.<br/><br/> Layer peta yang telah diakses dapat dilihat di tab Layer Terpilih. Di tab tersebut Anda dapat mengatur tampilan layer dengan menyeret untuk mengganti urutan, mengubah transparansi (opacity), dan style dari layer.
+In the Map Layers menu you can find all the map layers in the map service.<br/><br/>Sort map layers by theme or data provider.<br/><br/>Search map layers by a map layer name, a data provider name or a keyword. Newest map layers, vector layers and publishable layers you can find in pre-defined lists.<br/><br/>You can check currently open map layers in the Selected Layers tab. You can rearrange the layers by dragging, adjust their opacity and change the styling of some layers.==Di menu Layer Peta Anda dapat menemukan semua layer peta dari service.<br/><br/>Sortir layer peta menurut tema atau penyedia data.<br/><br/>Cari layer peta menurut nama layer peta, nama penyedia data, atau kata kunci. Layer peta terbaru, layer vektor, dan layer yang dapat dipublikasikan dapat ditemukan di daftar yang tersedia.<br/><br/> Layer peta yang terbuka dapat dilihat di tab Layer Terpilih. Di tab tersebut Anda dapat mengatur tampilan layer dengan menyeret untuk mengganti urutan, mengubah transparansi (opacity), dan style dari layer.
 Hide Map Layers==Tutup Layer Peta
 Show Map Layers==Tampilkan Layer Peta
 Search map layers==Pencarian layer peta
@@ -122,7 +122,7 @@ Map Legends==Legenda Peta
 Map legends are visual explanations of the symbols and colours used on the map.==Legenda Peta menampilkan simbol dan warna terkait layer yang ditampilkan pada peta.
 Hide Map Legends==Tutup Legenda Peta
 Show Map Legends==Tampilkan Legenda Peta
-No map legends available==Legenda peta tidak tersedia
+No map legends available==Tidak ada legenda peta yang tersedia
 User Guide==Panduan Pengguna
 Learn more about how to use this service by reading the User Guide.==Pelajari fitur-fitur dan cara penggunaan aplikasi ini melalui Panduan Pengguna.
 Hide User Guide==Tutup Panduan Pengguna
@@ -146,7 +146,7 @@ Select data source==Pilih sumber data
 Indicator==Indikator
 Indicators==Indikator
 Select data==Pilih data
-Specify contents of the examined data==Spesifikasikan konten dari data yang diperiksa
+Specify contents of the examined data==Tentukan konten dari data yang diperiksa
 You will get more options after choosing data provider and data.==Anda akan mendapat lebih banyak opsi setelah memilih penyedia data dan data.
 Clear==Kosongkan
 Get contents of data==Ambil konten dari data
@@ -164,8 +164,8 @@ Rotate map==Putar peta
 Search data==Pencarian data
 Table==Tabel
 Bar chart==Grafik batang
-Move to the original map view.==Kembali ke view peta awal.
-Move to the previous map view.==Kembali ke view peta sebelumnya.
+Move to the original map view.==Ke view peta awal.
+Move to the previous map view.==Ke view peta sebelumnya.
 Move to the next map view.==Ke view peta berikutnya.
 Zoom in the map view.==Perbesar view peta.
 Pan the map by dragging it with a mouse.==Geser peta dengan cara menggesernya menggunakan mouse.
@@ -253,8 +253,729 @@ Select role==Pilih role
 Add role:==Tambah role:
 Delete==Hapus
 Default Views==View Default
-Define map layers, zoom level and map view area. Set the map view as the default view  by pressing 'Set as default view'.==Definisikan daftar susunan layer peta, tingkat pembesaran, dan area view peta. Jadikan view peta tersebut sebagai view default dengan mengeklik 'Jadikan sebagai view default'
+Define map layers, zoom level and map view area. Set the map view as the default view  by pressing 'Set as default view'.==Tentukan daftar susunan layer peta, tingkat pembesaran, dan area view peta. Jadikan view peta tersebut sebagai view default dengan mengeklik 'Jadikan sebagai view default'
 Set as default view==Jadikan sebagai view default
 *Global Default View*==*View Default Global*
 Saving Succeeded==Berhasil Disimpan
 The default view (id=${id}) has been updated.==View default (id=${id}) berhasil diperbarui.
+These are the layers that are available in the service. Please select one to add as a map layer==Berikut layer yang tersedia di service. Silakan pilih salah satu untuk ditambahkan sebagai layer peta
+Dataprovider name==Nama penyedia data
+Edit dataprovider==Edit penyedia data
+Theme name==Nama tema
+Edit theme==Edit tema
+Default views could not be loaded.==View default tidak dapat dimuat.
+The default view (id=${id}) could not be updated.==View default (id=${id}) tidak dapat diperbarui.
+Guest users have no rights to see following map layers:==Pengguna tamu (guest) tidak memiliki hak untuk melihat layer peta berikut:
+Map Layer Rights==Hak Akses Layer Peta
+Layer Rights Management==Manajemen Hak Akses Layer
+Layer Rights Saved==Hak Akses Layer Tersimpan
+Map layer rights have been updated.==Hak akses layer peta telah diperbarui.
+Map layer rights could not been updated.==Hak akses layer peta tidak dapat diperbarui.
+Select role(s)==Pilih role
+Passwords don't match.==Password tidak cocok.
+Password should be at least eight characters long.==Panjang password minimal harus delapan karakter.
+Values are missing or invalid.==Ada nilai yang belum diisi atau tidak valid.
+Field \"{fieldName}\" is required.==Field \"{fieldName}\" diperlukan.
+Are you sure you wish to delete user {user}?==Apakah Anda yakin ingin menghapus pengguna {user}?
+The user could not be deleted.==User tersebut tidak dapat dihapus.
+Users could not be fetched.==Tidak dapat memuat daftar pengguna.
+User could not be saved.==Pengguna tidak dapat disimpan.
+Please check at username is unique and try again.==Mohon pastikan username sudah unik dan silakan coba kembali.
+No results matched==Tidak ada hasil yang cocok
+Are you sure you wish to delete role {role}?==Apakah Anda yakin ingin menghapus role {role}?
+The user could not be deleted.==User tersebut tidak dapat dihapus.
+The new role could not be saved.==Role baru tidak dapat disimpan.
+The status information for this map layer is not available.==Informasi status untuk layer peta ini tidak tersedia.
+Center map==Pusatkan peta
+Add marker==Tambah marker
+Type coordinates or click a point on the map.==Ketik koordinat atau klik sebuah titik pada peta.
+Show mouse cursor coordinates==Tampilkan koordinat pada kursor mouse
+Show more info on current position.==Tampilkan informasi lebih lengkap untuk posisi ini.
+An error occurred. Please check the coordinate values.==Terjadi error. Mohon periksa nilai koordinat.
+Change projection==Ganti proyeksi
+Projection==proyeksi
+Changing the projection will return the application to it's initial state and all opened maplayers will be removed. Do you wish to continue?==Mengubah proyeksi akan mengembalikan aplikasi ke keadaan awal dan semua layer peta yang terbuka akan dihapus. Apakah Anda ingin melanjutkan?
+Coordinate system:==Sistem koordinat:
+The coordinates recommended to be used in emergency calls are==Koordinat yang direkomendasikan untuk digunakan pada panggilan darurat adalah
+Show coordinates &raquo;==Tampilkan koordinat &raquo;
+&laquo; Input values==&laquo; Nilai input
+Coordinates cannot transformed==Koordinat tidak dapat ditransformasikan
+Show coordinate transformation tools==Tampilkan tool untuk transformasi koordinat
+Hide user interface (Use RPC interface)==Sembunyikan antarmuka pengguna (gunakan antarmuka RPC)
+Exit==Keluar
+Select language==Pilih bahasa
+Define a style for point features.==Tentukan style untuk feature titik.
+Define a style for line features.==Tentukan style untuk feature garis.
+Define a style for area features.==Tentukan style untuk feature area.
+Line endings==Ujung garis
+Custom colour (RGB 0-255)==Warna khusus (RGB 0-255)
+Remove line style and colour==Hapus style dan warna garis
+Remove fill colour and pattern==Hapus warna dan pola isian
+Export data==Ekspor data
+Export==Ekspor
+Additional settings==Setelan tambahan
+Metadata link==Tautan metadata
+Export only selected features==Hanya ekspor feature yang terpilih
+Show columns==Tampilkan kolom
+Columns==Kolom
+All==Semua
+Opened==Terbuka
+Filter Features==Filter Feature
+Select features from layer:==Pilih feature dari layer:
+Clear All==Kosongkan Semua
+Refresh==Perbarui
+Add Filter==Tambah Filter
+Remove Filter==Hapus Filter
+Geographical Filter==Filter Geografis
+Only features visible on the map==Hanya feature yang terlihat pada peta
+All features==Semua feature
+Only features selected on the map==Hanya feature yang terpilih pada peta
+Only features filling the selected option:==Hanya feature yang memenuhi opsi terpilih:
+Features intersecting selected features==Feature yang bersinggungan dengan feature terpilih
+Features inside selected features==Feature dalam feature yang terpilih
+Attribute Filter==Filter Atribut
+Filter is case-sensitive.==Filter peka huruf besar-kecil.
+Attribute==Atribut
+Logical operator==Operator logis
+Value==Nilai
+Without geographic filter all the features are included in the analysis. Please add an attribute filter or select \"Only features visible on the map\" in the geographic filter.==Tanpa filter geografis, semua feature akan dimasukkan dalam analisis. Silakan tambahkan filter atribut atau pilih \"Hanya feature yang terlihat di peta\" di filter geografis.
+You can filter by attributes only if \"All features\" is selected in the geographic filter above.==Anda dapat memfilter menurut atribut hanya jika \"Semua feature\" dipilih dalam filter geografis di atas.
+equals==sama dengan
+is like==seperti
+does not equal==tidak sama dengan
+is not like==tidak seperti
+is greater than==lebih besar dari
+is less than==kurang dari
+is greater than or equal to==lebih besar dari atau sama dengan
+is less than or equal to==kurang dari atau sama dengan
+The attribute is missing. Please select an attribute and try again.==Atribut tidak ditemukan. Silakan pilih atribut dan coba lagi.
+The operator is missing. Please select an operator and try again.==Operator tidak ditemukan. Silakan pilih operator dan coba lagi.
+The value is missing. Please type a value and try again.==Nilai tidak ditemukan. Silakan masukkan sebuat nilai dan coba lagi.
+The logical operator is missing. Please select a logical operator and try again.==Operator logis tidak ditemukan. Silakan pilih operator logis dan coba lagi.
+Use statistical values==Gunakan nilai statistik
+Select Statistical Values==Pilih Nilai Statistik
+Select analysis layer==Pilih layer analisis
+Select property==Pilih properti
+The statistical values could not be fetched.==Nilai statistik tidak dapat dimuat.
+Statistical Values Not Found==Nilai Statistik Tidak Ditemukan
+The statistical values are not computed for this map layer. You can compute them in the Analysis function.==Nilai statistik tidak dihitung untuk layer peta ini. Anda dapat menghitungnya dalam fungsi Analisis.
+Sucess==Berhasil
+File format is not allowed.==Format file tidak diperbolehkan.
+Allowed file extensions: {allowedExtensions}.==Ekstensi file yang diperbolehkan: {allowedExtensions}.
+Only single file is allowed to be uploaded.==Hanya satu file yang boleh diunggah.
+The selected file is too large. It can be at most {size, number} Mb.==Ukuran file yang dipilih terlalu besar. Maksimal adalah {size, number} Mb.
+No file selected.==Tidak ada file yang dipilih.
+Loading...==Memuat...
+Feature data are not available for the selected map layers.==Feature data tidak tersedia untuk layer peta yang terpilih.
+Data type==Tipe data
+Feature data are not available on this scale level. Please use the scale bar to select another scale level.==Feature data tidak tersedia untuk tingkat skala ini. Silakan gunakan kontrol skala untuk memilih tingkat skala yang lain.
+Feature data are invalid. Please update data by panning the map view slightly.==Feature data tidak valid. Silakan perbarui data dengan menggeser view peta sedikit.
+The map layer has no feature data.==Layer peta tidak memiliki feature data.
+Select visible columns==Pilih kolom yang ditampilkan
+Statistical values==Nilai statistik
+Select features==Pilih feature
+Select Features==Pilih Feature
+From topmost layer==Dari layer teratas
+From all layers==Dari semua layer
+Select more features==Pilih feature lebih banyak
+Deselect All==Batalkan Semua Pilihan
+Show features==Tampilkan feature
+Draw a point. If the point is inside a feature, the feature will be selected.==Gambar sebuah titik. Jika titik tersebut berada dalam sebuat feature, maka feature tersebut akan terpilih.
+Draw a line. If the line intersects a feature, the feature will be selected.==Gambar sebuah garis. Jika garis tersebut bersinggungan dengan sebuah feature, maka feature tersebut akan terpilih.
+Draw a polygon. If the polygon intersects a feature, the feature will be selected.==Gambar sebuah poligon. Jika poligon tersebut bersinggungan dengan sebuah feature, maka feature tersebut akan terpilih.
+Draw a square. If the square intersects a feature, the square will be selected.==Gambar sebuah kotak. Jika kotak tersebut bersinggungan dengan sebuah feature, maka feature tersebut akan terpilih.
+Draw a circle. If the circle intersects a feature, the feature will be selected.==Gambar sebuah lingkaran. Jika lingkaran tersebut bersinggungan dengan sebuah feature, maka feature tersebut akan terpilih.
+Draw a geometry and select features based on that geometry.==Gambar sebuah geometri dan pilih feature berdasarkan geometri tersebut.
+Hide==Sembunyikan
+The map layer is temporarily hidden.==Layer peta sementara disembunyikan.
+The map layer cannot be shown at this scale level.==Layer peta tidak dapat ditampilkan pada tingkat skala ini.
+Move to a suitable map level.==Pindah ke tingkat peta yang sesuai.
+The map layer has no features at the map view area.==Layer peta tidak memiliki feature di area view peta.
+Move to a suitable location.==Pindah ke lokasi yang sesuai.
+Publication prohibited==Publikasi dilarang
+Please log in, if you want to publish the map layer in an embedded map.==Silakan login jika Anda ingin mempublikasikan layer peta dalam sebuat peta yang disematkan.
+Publication permitted==Publikasi diizinkan
+Publishable only for authorities==Hanya dapat dipublikasikan oleh otoritas yang berwenang
+Please log in to publish embedded maps.==Silakan login untuk mempublikasikan peta yang disematkan.
+Publication permitted for data providers==Publikasi diizinkan bagi penyedia data
+The map layer is publishable in embedded maps only for data providers. If you are a data provider, please contact the support service.==Layer peta hanya dapat dipublikasikan ke peta yang disematkan oleh penyedia data. Jika Anda adalah penyedia data silakan kontak layanan bantuan.
+The map layer is publishable in embedded maps. The usage limit is not limited.==Layer peta dapat dipublikasikan dalam peta yang disematkan. Tidak ada batasan penggunaan.
+The map layer is not publishable in embedded maps. The data provider has not granted permissions.==Layer peta tidak dapat dipublikasikan dalam peta yang disematkan. Izin belum diberikan oleh penyedia data.
+Publication permitted for authorities==Publikasi diizinkan bagi yang otoritas yang berwenang
+The map layer is publishable in embedded maps only for authorities. If you are an authority, please contact the support service.==Layer peta hanya dapat dipublikasikan ke peta yang disematkan oleh otoritas yang berwenang. Jika Anda adalah otoritas yang berwenang silakan kontak layanan bantuan.
+Background map==Peta dasar
+Map layer==Layer peta
+Data product==Produk data
+Count==Total
+The difference of unauthorized feature values is presented with value ==Perbedaan nilai feature yang tidak sah disajikan dengan nilai<space>
+Count = Number of features without unauthorized features==Total = Jumlah feature tanpa feature yang tidak sah
+There are unauthorized feature values in the data==Terdapat nilai feature yang tidak sah pada data
+Show selected first==Tampilkan yang terpilih di awal
+The system error occurred.==Terjadi error pada sistem.
+The map layers could not be loaded. Reload the webpage in your browser and select map layers again.==Tidak dapat memuat layer peta. Silakan perbarui laman dan pilih kembali layer peta.
+No search results could be found. Please check the search term.==Tidak ada hasil pencarian yang ditemukan. Silakan periksa istilah pencarian.
+No map layers could be found. Please check the search term.==Tidak ada layer peta yang ditemukan. Silakan periksa kembali istilah pencarian.
+Searching...==Mencari...
+Search map layers.==Cari layer peta.
+Search map layers by map layer name, data producer name or keyword.==Cari layer peta menurut nama layer peta, nama penyedia data, atau kata kunci.
+Search map layers by map layer name, data producer name or keyword. You can type a whole term or a part of it. The search term must be at least four characters long.==Cari layer peta menurut nama layer peta, nama penyedia data, atau kata kunci. Anda dapat memasukkan istilah yang lengkap atau sebagian saja. Istilah pencarian minimal harus empat karakter panjangnya.
+Did you mean:==Apakah Anda bermaksud:
+Map layer (WMS, WMTS)==Layer peta (WMS, WMTS)
+Data product (WFS)==Produk data (WFS)
+Refresh feature data by clicking 'Feature Data' or 'Refresh' button in the map window.==Perbarui feature data dengan mengeklik 'Feature Data' atau tombol 'Perbarui' pada jendela peta.
+The map layer is currently available.==Layer peta saat ini tersedia.
+The map layer may be periodically not available during the next few days.==Layer peta mungkin tidak tersedia secara berkala untuk beberapa hari ke depan.
+Remove filter==Hapus filter
+In the Map Layers menu you can find all the map layers in the map service. <br/><br/> Search map layers by a map layer name, a data provider name or a keyword. Newest map layers, vector layers and publishable layers you can find in pre-defined lists.<br/><br/> Open map layers you can check in the Selected Layers tab.==Di menu Layer Peta Anda dapat menemukan semua layer peta dari service.<br/><br/>Cari layer peta menurut nama layer peta, nama penyedia data, atau kata kunci. Layer peta terbaru, layer vektor, dan layer yang dapat dipublikasikan dapat ditemukan di daftar yang tersedia.<br/><br/> Layer peta yang terbuka dapat dilihat di tab Layer Terpilih.
+Remove layer for selected==Hapus layer untuk yang terpilih
+Open layer tools==Buka tool layer
+Close layer tools==Tutup tool layer
+Zoom to layer extent==Perbesar ke luasan layer
+The map layer is publishable in embedded maps. The weekly usage limit may be limited.==Layer peta dapat dipublikasikan ke peta yang disematkan. Batas penggunaan mingguan mungkin terbatas.
+Attention!==Perhatian!
+You are adding 10 or more layers to the map. If you continue, increasing the map layers will cause performance problems!==Anda menambahkan 10 atau lebih layer ke peta. Jika Anda melanjutkan untuk menambahkan jumlah layer peta, maka akan menyebabkan masalah pada performa!
+The map currently has 10 or more map layers. If you continue, increasing the map layers will cause performance problems!==Saat ini pada peta terdapat 10 layer peta atau lebih. Jika Anda melanjutkan untuk menambahkan jumlah layer peta, maka akan menyebabkan masalah pada performa!
+The map layer is not currently available.==Layer peta saat ini tidak tersedia.
+Map legend not available==Legenda peta tidak tersedia
+Show map legends==Tampilkan legenda peta
+Map legend: ==Legenda peta:<space>
+Choose the map layer, for which legend is shown:==Pilih layer peta yang terkait dengan legenda peta yang ditampilkan:
+Open in a new tab==Buka di tab baru
+My Places==Lokasi Saya
+You do not have any saved places yet.==Anda belum memiliki lokasi yang tersimpan.
+You have too many own places. Please remove some places.==Anda memiliki terlalu banyak lokasi. Mohon hapus beberapa lokasi.
+This map layer is private. Click here to publish it.==Layer peta ini privat. Klik di sini untuk mempublikasikannya.
+This map layer is public. Click here to unpublish it.==Layer peta ini publik. Klik di sini untuk tidak mempublikasikannya.
+Place name==Nama lokasi
+Place description==Deskripsi lokasi
+Created==Dibuat
+Updated==Diperbarui
+Delete Place==Hapus Lokasi
+Do you want to delete place \"{name}\"?==Apakah Anda ingin menghapus lokasi \"{name}\"?
+The place has been deleted.==Lokasi telah dihapus.
+The place could not be deleted. Please try gain later.==Lokasi tidak dapat dihapus. Silakan coba lagi lain kali.
+The place has not been deleted.==Lokasi belum dihapus.
+Measure Distance==Ukur Jarak
+Click breakpoints and measure a total distance between them.==Klik untuk membuat titik pemisah dan ukur jarak total di antara mereka.
+Add line==Tambah garis
+Click a starting point and breaking points. Finally double-click an ending point. You can drag points to another location by mouse. If you draw several lines, distances are summed up.==Klik sebuah titik awal dan titik-titik percabangan. Terakhir klik ganda untuk menambahkan titik penutup. Anda dapat menggeser titik ke lokasi lain dengan menggunakan mouse. Jika Anda menggambar beberapa garis, maka semua jarak akan dijumlahkan.
+Measure Area==Ukur Area
+Draw an area and measure it.==Gambar dan ukur sebuah area.
+Add area==Tambah area
+Click corner points. Finally double-click an ending point. You can drag points to another location by mouse. If you draw several areas, areas are summed up.==Klik untuk titik-titik sudutnya. Terakhir klik ganda untuk menambahkan titik penutup. Anda dapat menggeser titik ke lokasi lain dengan menggunakan mouse. Jika Anda menggambar beberapa area, maka semua area tersebut akan dijumlahkan.
+You can move points to another location by clicking them with a mouse.==Anda dapat memindahkan titik ke lokasi lain dengan cara mengekliknya.
+Publish==Publikasikan
+Unpublish==Batalkan Publikasi
+Place data==Data lokasi
+Save the feature as your own place. Please give at least a name and a description. Finally select a map layer where the feature will be saved or create a new map layer. Later you can find your own places in the My Data menu.==Simpan feature sebagai lokasi Anda. Silakan berikan nama dan deskripsi. Terakhir pilih sebuah layer peta di mana feature tersebut akan disimpan atau buat sebuah layer peta baru. Anda dapat menemukan lokasi Anda di menu Data Saya.
+Place name==Nama lokasi
+Text visible on map==Teks yang terlihat pada peta
+Line length:==Panjang garis:
+Area size:==Ukuran area:
+Create new layer==Buat layer baru
+or select one of your existing map layers:==atau pilih salah satu dari layer peta Anda:
+Point==Titik
+Edge line colour==Warna garis pinggir
+Edge line width==Lebar garis pinggir
+Visible place data==Data lokasi yang terlihat
+Image==Gambar
+Place style==Style lokasi
+Edit the point style. Note! The selection affects all the point features at this map layer.==Edit style untuk titik. Catatan: style yang dipilih akan merubah semua feature titik pada layer peta ini.
+Edit the area style. Note! The selection affects all the area features at this map layer.==Edit style untuk area. Catatan: style yang dipilih akan merubah semua feature area pada layer peta ini.
+Edit the line style. Note! The selection affects all the line features at this map layer.==Edit style untuk garis. Catatan: style yang dipilih akan merubah semua feature garis pada layer peta ini.
+Point style==Style titik
+Custom RGB color (0-255)==Warna RGB khusus (0-255)
+Line style==Style garis
+Edge line style==Style garis pinggir
+Edge line endings==Ujung garis pinggir
+Edge line corners==Sudut garis pinggir
+Edge line width==Lebar garis pinggir
+Edge line color==Warna garis pinggir
+The place has been saved.==Lokasi telah disimpan.
+You can find the place in the menu \"My data\".==Anda dapat menemukan lokasi di menu \"Data Saya\".
+The map layer has been saved.==Layer peta telah disimpan.
+The map layer has been updated.==Layer peta telah diperbarui.
+Delete Map Layer==Hapus Layer Peta
+You are deleting the map layer \"{0}\". There {1, plural, one {is # place} other {are # places}} on the map layer. Do you want to: <br/> 1. delete the map layer and its {1, plural, one {place} other {places}} <br/> 2. move the {1, plural, one {place} other {places}} to the default map layer before deleting the map layer?==Anda akan menghapus layer peta \"{0}\". Terdapat {1, plural, one {is # place} other {are # places}} pada layer peta. Apakah Anda ingin: <br/> 1. hapus layer peta dan semua lokasi yang terkait <br/> 2. pindahkan semua lokasi ke layer peta default sebelum menghapus layer peta ini?
+Do you want to delete the map layer \"{0}\"?==Apakah Anda ingin menghapus layer peta \"{0}\"?
+The map layer has been deleted.==Layer peta telah dihapus.
+Publish Map Layer==Publikasikan Layer Peta
+You are publishing the map layer {0}. After that the map layer can be shared in public and embedded in another map service. Also other users can view the map layer.==Anda akan mempublikasikan layer peta {0}. Setelah itu layer peta tersebut akan dapat dibagikan untuk umum dan disematkan dalam service peta lain. Pengguna lain juga akan dapat melihat layer peta tersebut.
+Unpublish Map Layer==Batalkan Publikasi Layer Peta
+You are unpublishing the map layer {0}. After that the map layer cannot be shared in public and embedded in another map service. Also other users cannot view the map layer anymore.==Anda akan membatalkan publikasi layer peta {0}. Setelah itu layer peta tersebut tidak akan dapat dibagikan ke umum serta disematkan dalam service peta lain. Pengguna lain juga tidak akan dapat melihat layer peta tersebut.
+The map layer and its places could not be saved.==Layer peta dan lokasi-lokasi terkait tidak dapat disimpan.
+The map layer could not be saved.==Layer peta tidak dapat disimpan.
+The place could not be saved.==Lokasi tidak dapat disimpan.
+A system error occurred.==Terjadi error pada sistem.
+The map layer could not be deleted.==Layer peta tidak dapat dihapus.
+The given data are invalid:==Data berikut tidak valid:
+A place name is missing.==Nama lokasi tidak ditemukan.
+A map layer name is missing.==Nama layer peta tidak ditemukan.
+The place name contains illegal characters.==Terdapat karakter ilegal pada nama lokasi.
+The place description contains illegal characters.==Terdapat karakter ilegal pada deskripsi lokasi.
+The map layer name contains illegal characters.==Terdapat karakter ilegal pada nama layer peta.
+The point size is invalid. It must be between 1 and 5.==Ukuran titik tidak valid. Nilainya harus di antara 1 dan 5.
+The point colour is invalid. All the RGB values must be between 0 and 255.==Warna titik tidak valid. Semua nilai RGB harus di antara 0 dan 255.
+The point icon is invalid.==Ikon titik tidak valid.
+The line colour is invalid. All the RGB values must be between 0 and 255.== Warna garis tidak valid. Semua nilai RGB harus di antara 0 dan 255.
+The line width is invalid. It must be between 1 and 50.==Lebar garis tidak valid. Nilainya harus di antara 1 dan 50.
+The edge line colour is invalid. All the RGB values must be between 0 and 255.==Warna garis pinggir tidak valid. Semua nilai RGB harus di antara 0 dan 255.
+The fill colour is invalid. All the RGB values must be between 0 and 255.==Warna isian tidak valid. Semua nilai RGB harus di antara 0 dan 255.
+Own datasets==Dataset pribadi
+Dataset Import==Impor Dataset
+Upload a dataset from your computer as a zipped file which contains all required files from one of the following file formats: <ul><li>Shapefile (.shp, .shx, .dbf and .prj, optionally .cpg)</li><li>GPX-file (.gpx)</li><li>MapInfo (.mif and .mid)</li><li>Google Map (.kml)</li></ul>The zipped file can contain only one dataset and it can be at most {maxSize, number} Mb.==Unggah dataset dari komputer Anda dalam sebuah file zip yang berisi semua file yang diperlukan dari format-format berikut: <ul><li>Shapefile (.shp, .shx, .dbf and .prj, opsional .cpg)</li><li>GPX-file (.gpx)</li><li>MapInfo (.mif and .mid)</li><li>Google Map (.kml)</li></ul>File zip hanya boleh berisi satu dataset dengan ukuran file maksimum {maxSize, number} Mb.
+Upload a dataset from your computer as a zipped file. Please check that all the files are in the correct file format and coordinate reference system.==Unggah dataset dari komputer Anda dalam sebuah file zip. Pastikan file zip tersebut berisi file terkait dataset dalam format dan sistem referensi koordinat yang sesuai.
+Import==Impor
+Dataset Information==Informasi Dataset
+Style definitions==Definisi style
+EPSG code==Kode EPSG
+The dataset has not been imported. A file and a name are missing. Please correct them and try again.==Dataset belum diimpor. Terdapat file yang tidak ditemukan. Mohon dikoreksi dan coba lagi.
+Dataset Import Succeeded==Impor Dataset Berhasil
+The dataset has been imported with {count, plural, one {# feature} other {# features}}. You can now find it in the \"My data\" menu.==Dataset telah diimpor dengan {count, plural, one {# feature} other {# features}}. Anda dapat menemukannya di menu \"Data Saya\".
+The dataset could not be imported.==Dataset tidak dapat diimpor.
+The dataset import couldn't be finished because of a time-out error.==Proses impor dataset tidak dapat diselesaikan karena terjadi error time-out.
+The dataset import were aborted.==Proses impor dataset dibatalkan.
+The dataset import failed.==Proses impor dataset gagal.
+NB! Check that the files of the input data are not stored inside a folder within the zip file.==Perhatian! Pastikan file dari data input tidak berada dalam sebuah folder di dalam file zip.
+Unable to identify the coordinate system from the file. Check that the coordinate system is correctly specified in the data or enter the ESPG code in number format (e.g. 4326) and try again.==Tidak dapat mengidentifikasi sistem koordinat dari file. Pastikan sistem koordinat sudah dispesifikasikan dengan benar dalam data, atau input kode EPSG dalam format angka (contoh: 4326) dan coba lagi.
+The coordinate system could not be identified based on the shapefile. Include the .prj file that specifies the coordinate system in the compressed folder or enter the ESPG code in number format (e.g. 4326) and try again.==Sistem koordinat tidak dapat diidentifikasi dari shapefile. Sertakan file .prj untuk menspesifikasikan sistem koordinat dalam file zip atau input kode EPSG dalam format angka (contoh: 4326) dan coba lagi.
+Couldn't process dataset.==Tidak dapat memproses dataset.
+Couldn't create dataset from the KML file.==Tidak dapat membuat dataset dari file KML.
+Couldn't create dataset from the Shapefile.==Tidak dapat membuat dataset dari Shapefile.
+Couldn't create dataset from the MIF file.==Tidak dapat membuat dataset dari file MIF.
+Couldn't create dataset from the GPX file.==Tidak dapat membuat dataset dari file GPX.
+Couldn't find valid import file in the zip file. Please check that the file format is supported and it's a zipped file.==Tidak dapat menemukan file yang valid dalam file zip untuk diimpor. Pastikan format file didukung dan dalam format zip.
+The zip file contained redundant files. Remove the redundant files and keep only those that are required according to the instructions.==File zip berisi file yang tidak diperlukan. Hapus file-file tersebut dan simpan hanya yang diperlukan sesuai instruksi.
+Multiple files with the same {extension} file extension were found from the input data. The input data can only contain data sets of one file.==Beberapa file dengan ekstensi file {extension} yang sama ditemukan dari data input. Data input hanya boleh berisi dataset dari satu file.
+Multiple different data sets ({extensions}) were found from the input data. The input data can only contain data of one file.==Beberapa dataset yang berbeda (extensions}) ditemukan dari data input. Data input hanya boleh berisi data dari satu file.
+Unable to save the features of the input data. Check that all files required by the file format are inside a zip file and that the features of the input data are valid.==Tidak dapat menyimpan feature dari data input. Pastikan bahwa semua file yang diperlukan dari format file ada di dalam file zip serta feature dari data input valid.
+The selected file is too large. It can be at most {maxSize, number} Mb.==File yang terpilih terlalu besar. Maksimal adalah {maxSize, number} Mb.
+Couldn't find features in the input data. Check that the coordinates of the features are defined.==Tidak dapat menemukan feature dalam data input. Pastikan koordinat dari feature sudah didefinisikan.
+The entered ESPG code was not identified. Check that it is correct and in number format (e.g. 4326). If the code can't be identified despite this, the coordinate system information needs to be added to the data.==Tidak dapat mengidentifikasi kode EPSG yang diinput. Jika kode tetap tidak dapat diidentifikasi, informasi tentang sistem koordinat perlu ditambahkan ke data.
+The imported file is not valid. Verify the validity of the data and try again.==File yang diimpor tidak valid. Periksa validitas dari data dan coba lagi.
+Caution! During import {count, plural, one {# feature} other {# features}} where rejected because of missing or corrupted coordinates or geometry==Peringatan! Saat proses impor {count, plural, one {# feature} other {# features}} ditolak karena koordinat atau geometri yang tidak ditemukan atau rusak (corrupt).
+Do you want to delete the dataset \"{name}\"?==Apakah Anda ingin menghapus dataset \"{name}\"?
+Dataset Delete==Hapus Dataset
+The dataset has been deleted.==Dataset telah dihapus.
+The dataset has been updated.==Dataset telah diperbarui.
+Deleting the dataset failed due to an error in the system. Please try again later.==Proses penghapusan dataset gagal karena error pada sistem. Silakan coba lagi nanti.
+Updating the dataset failed due to an error in the system. Please try again later.==Proses pembaruan dataset gagal karena error pada sistem. Silakan coba lagi nanti.
+The style defined for the dataset was not found. Default values are shown on the form. Change the style definitions before saving the changes.==Style yang didefinisikan untuk dataset tidak ditemukan. Nilai default ditampilkan pada form. Ganti definisi style sebelum menyimpan perubahan.
+Give the map layer a name and try again.==Berikan nama untuk layer peta dan coba lagi.
+Other languages==Bahasa lain
+Register==Mendaftar
+Projections are incompatible==Proyeksi tidak kompatibel
+The page reloads to change the projection==Laman dimuat ulang untuk mengubah proyeksi
+Edit Map View==Edit View Peta
+The map view name is required. Please type a name and try again.==Nama view peta diperlukan. Silakan ketik sebuah nama dan coba lagi.
+Delete Map View==Hapus View Peta
+Do you want to delete the map view \"{name}\"?==Apakah Anda ingin menghapus view peta \"{name}\"?
+View default==Lihat default
+The map view has been saved.==View peta telah disimpan.
+A map layer name is required. Please type a name and try again.==Nama layer peta diperlukan. Silakan ketik sebuah nama dan coba lagi.
+The map layer name contains illegal characters. Allowed characters are the letters (a-z,å,ä,ö, A-Z,Å,Ä,Ö), numbers (0-9), backspaces and hyphens (-). Please correct the name and try again.==Terdapat karakter ilegal pada nama layer peta. Karakter yang valid adalah huruf (a-z,å,ä,ö, A-Z,Å,Ä,Ö), angka (0-9), backspace dan tanda strip (-). Silakan perbaiki nama tersebut dan coba lagi.
+Map view name==Nama view peta
+A system error occurred. The map view could not be saved.==Terjadi error pada sistem. View peta tidak dapat disimpan.
+The map view could not be saved.==View peta tidak dapat disimpan.
+The map view could not be deleted.==View peta tidak dapat dihapus.
+The map view could not be published.==View peta tidak dapat dipublikasikan.
+The map view could not be unpublished.==View peta tidak dapat dibatalkan publikasinya.
+Map views could not be retrieved.==View peta tidak dapat diambil.
+Show on the map==Tampilkan pada peta
+HTML code==Kode HTML
+Publication==Publikasi
+Actions==Aksi
+Copy the HTML code below to your html code and the map will be visible on your website:==Copy kode HTML di bawah dan paste di situs web Anda untuk menampilkan peta tersebut:
+Copy to the clipboard==Copy ke clipboard
+Edit Map Name==Edit Nama Peta
+Save Map==Simpan Peta
+The map layer name is required. Please type a name and try again.==Nama layer peta diperlukan. Silakan ketik sebuah nama dan coba lagi.
+Delete Embedded Map==Hapus Peta Yang Disematkan
+You are deleting the embedded map \"{name}\". After that the map is not visible at your website. Do you want to delete the map?==Anda akan menghapus peta yang disematkan \"{name}\". Setelah itu peta teresbut tidak akan tampil di situs web Anda. Apakah Anda ingin menghapus peta tersebut?
+All the map layers are not available. Do you want to open the embedded map?==Semua layer peta tidak tersedia. Apakah Anda ingin membuka peta yang disematkan?
+All the map layers could not be loaded.==Semua layer peta tidak dapat dimuat.
+The embedded map has been saved.==Peta yang disematkan telah disimpan.
+The map layer name contains illegal characters. Allowed characters are the letters (a-z,å,ä,ö, A-Z,Å,Ä,Ö), numbers (0-9), backspaces and hyphens (-). Please correct the name and try again.==Terdapat karakter ilegal pada nama layer peta. Karakter yang valid adalah huruf (a-z,å,ä,ö, A-Z,Å,Ä,Ö), angka (0-9), backspace dan tanda strip (-). Silakan perbaiki nama tersebut dan coba lagi.
+Save map==Simpan peta
+The embedded map could not be saved.==Peta yang disematkan tidak dapat disimpan.
+The embedded map could not be updated.==Peta yang disematkan tidak dapat diperbarui.
+The embedded map could not be deleted.==Peta yang disematkan tidak dapat dihapus.
+The embedded map could not be published.==Peta yang disematkan tidak dapat dipublikasikan.
+The embedded map could not be unpublished.==Peta yang disematkan tidak dapat dibatalkan publikasinya.
+The embedded maps could not be retrieved.==Peta yang disematkan tidak dapat diambil.
+Update account data==Perbarui data akun
+Change password==Ganti password
+Delete Account==Hapus Akun
+Yes==Ya
+No==Tidak
+Print==Cetak
+Print the current map view to a PNG image or a PDF file.==Cetak view peta ini ke gambar PNG atau file PDF.
+Print Map View==Cetak View Peta
+required==diperlukan
+Type a name for your print-out. Please note the language used in the map layers.==Ketik nama untuk cetakan Anda. Harap disesuaikan dengan bahasa yang digunakan pada layer peta.
+Select a language for your print-out. Please note the language used in the user interface and map layers.==Pilih bahasa untuk cetakan Anda. Harap disesuaikan dengan bahasa yang digunakan pada antarmuka pengguna dan layer peta.
+Size and direction==Ukuran dan arah
+Select a print size and direction. You can see updates in the preview image.==Pilih ukuran cetak dan arahnya. Anda dapat melihat perubahan pada gambar pratinjau.
+Click the preview image to open a larger image in another window.==Klik pada gambar pratinjau untuk membuka gambar yang lebih besar di jendela lain.
+The preview image will be updated shortly.==Gambar pratinjau akan segera diperbarui.
+Check the map extent area in the preview image.==Periksa area luasan peta pada gambar pratinjau.
+Location and scale==Lokasi dan skala
+The printout scale matches the scale used in the preview map.==Skala cetakan cocok dengan skala yang digunakan pada peta pratinjau.
+Scale==Skala
+Select settings for your print-out.==Pilih setelan untuk cetakan Anda.
+File format==Format file
+Select a file format for your print-out.==Pilih format file untuk cetakan Anda.
+Map Title==Judul Peta
+Add a title for the map.==Tambahkan judul untuk peta.
+Include logo==Sertakan logo
+You can hide the logo if necessary.==Anda dapat menyembunyikan logo jika diperlukan.
+Add a scale to the map printout==Tambahkan skala ke cetakan peta
+Add a scale to the map, if you want.==Tambahkan skala ke peta jika diperlukan.
+Include current date==Sertakan tanggal saat ini
+You can add a date to the printout.==Anda dapat menambahkan tanggal ke cetakan.
+Include time series timestamp==Sertakan stempel waktu seri waktu
+You can add a time series timestamp to the printout.==Anda dapat menambahkan stempel waktu seri waktu ke cetakan.
+Time series time==Waktu seri waktu
+Help==Bantuan
+Error in size definitions==Error pada definisi ukuran
+Name is required information==Nama diperlukan
+There is no help available.==Tidak ada bantuan yang tersedia.
+Printing the map view not succeeded. Please try again later.==Tidak berhasil mencetak view peta. Silakan coba lagi nanti.
+The name contains disallowed characters. Allowed characters are the letters a-z as well as å, ä and ö, numbers, backspaces and hyphens.==Terdapat karakter ilegal pada nama. Karakter yang valid adalah huruf (a-z,å,ä,ö, A-Z,Å,Ä,Ö), angka (0-9), backspace dan tanda strip (-).
+Specify the scale to be used for printing==Tentukan skala yang akan digunakan untuk mencetak
+Use the map scale==Gunakan skala peta
+Select a scale==Pilih skala
+The following maplayers are not shown on the printout==Layer peta berikut tidak ditampilkan pada cetakan
+The printout does not show all layers==Cetakan tidak menampilkan semua layer
+You can make a print of your map in PDF and PNG formats.==Anda dapat mencetak peta Anda dalam format PDF dan PNG.
+You can use at most eight map layers in the printout.==Anda dapat menggunakan maksimal delapan layer peta dalam cetakan.
+Printing out the map view may take some time when multiple layers are selected.==Mencetak view peta mungkin memerlukan waktu ketika beberapa layer terpilih.
+Embedded Map Saved==Peta Yang Disematkan Tersimpan
+The embedded map has been saved. Publish it on your website by copying this code to the html code on your website:==Peta yang disematkan telah tersimpan. Anda dapat mempublikasikannya pada situs web Anda dengan mengcopy kode HTML berikut ke situs Anda:
+Opening embedded map…==Membuka peta yang disematkan…
+Updating embedded map…==Memperbarui peta yang disematkan…
+Opening embedded map for editing. Please wait a moment!==Membuka peta yang disematkan untuk diedit. Mohon tunggu sesaat!
+Opening embedded map failed.==Gagal membuka peta yang disematkan.
+Please log in to edit embedded map.==Silakan login untuk mengedit peta yang disematkan.
+Update Embedded Map==Perbarui Peta Yang Disematkan
+Transfer configuration==Konfigurasi transfer
+Enable transfer==Aktifkan transfer
+Note! The language selection is not visible on the preview.==Catatan: Pemilihan bahasa tidak terlihat pada pratinjau.
+Scale bar==Scale bar
+Time series player==Pemutar seri waktu
+Index map==Peta indeks
+Pan tool==Pan tool
+Zoom bar==Zoom bar
+Center to location==Pusatkan ke lokasi
+Pan by mouse==Pan by mouse
+Place search==Pencarian lokasi
+Feature data==Feature data
+Feature query tool==Feature query tool
+Map tools==Tool Peta
+Select map layer==Pilih layer peta
+Map layers menu==Menu layer peta
+Coordinate tool==Coordinate tool
+Feedback (Open311) service==Feedback (Open311) service
+Show map legend==Tampilkan legenda peta
+Enable map rotation==Aktifkan rotasi peta
+Show map focal point==Tampilkan titik fokus peta
+Camera tools==Camera tools
+Time control==Time control
+Measure distance==Ukur jarak
+Measure area==Ukur area
+Drawing tools==Drawing tools
+Adding own places==Menambahkan lokasi sendiri
+Allow point features==Izinkan feature garis
+Allow line features==Izinkan feature garis
+Allow area features==Izinkan feature area
+Add a drawing layer to map layers.==Tambahkan layer gambar ke layer peta.
+(Default map layer)==(Layer peta default)
+Use as default==Jadikan sebagai default
+My map layers==Layer peta saya
+Select the background map layer. You can select the default background map layer in the map preview.==Pilih layer peta latar. Anda dapat memilih layer peta latar default di pratinjau peta.
+Select as baselayer==Pilih sebagai layer dasar
+Allow style change==Izinkan mengganti style
+Single==Single
+Continuous==Continuous
+Enable functionality only for mobile devices==Aktifkan fungsionalitas hanya untuk perangkat mobile
+Center map on user location at startup==Pusatkan peta pada lokasi pengguna saat memulai
+Show thematic maps on the map.==Tampilkan peta tematik pada peta.
+Show thematic data in table==Tampilkan data tematik di tabel
+Allow classification==Izinkan klasifikasi
+Set classification background transparent==Jadikan latar klasifikasi transparan
+Display charts==Tampilkan grafik
+Allow hiding classification==Izinkan menyembunyikan klasifikasi
+Allow hiding series player==Izinkan menyembunyikan pemutar seri
+Color scheme==Skema warna
+My colour scheme==Skema warna saya
+Identifier background==Latar penanda
+Identifier text==Teks penanda
+Placename==Nama lokasi
+Dark==Gelap
+Light==Muda
+The selected color scheme affects a graphic layout of feature and map layer popup info wimdows.==Skema warna yang terpilih akan mempengaruhi penataan grafis dari feature dan popup info window pada layer peta.
+Update map==Perbarui peta
+Do you want to update this map?==Apakah Anda ingin memperbarui peta ini?
+Updates are shown immediately on the map. You do not need to update the html code on your website.==Pembaruan akan langsung tampil pada peta. Anda tidak perlu memperbarui kode HTML pada situs web Anda.
+Select the map layers to show on the published map==Pilih layer peta yang akan ditampilkan pada peta yang dipublikasikan
+Do you want to show also orthophotos on the map?==Apakah Anda ingin menampilkan orthophoto pada peta?
+Map preview==Pratinjau peta
+Location and zoom level==Lokasi dan tingkat pembesaran
+Zoom level==Tingkat pembesaran
+The map size is invalid. Width must be at least 30 pixels and height at least 20 pixels. Use a point as a decimal separator.==Ukuran peta tidak valid. Lebar harus sedikitnya 30 piksel dan tinggi sedikitnya 20 piksel. Gunakan titik untuk separator desimal.
+The website is required. Please type an address and try again.==Situs web diperlukan. Silakan ketik sebuah alamat web dan coba lagi.
+The website is invalid. Please type an address without http or www prefixes and try again.==Situs web tidak valid. Silakan ketik sebuah alamat web tanpa http atau awalan www dan coba lagi.
+The map name is required. Plese type a name and try again.==Nama peta diperlukan. Silakan ketik sebuah nama dan coba lagi.
+The user guide is not available.==Panduan pengguna tidak tersedia.
+The map name contains illegal characters (e.g. html-tags). Please correct the name and try again.==Terdapat karakter ilegal pada nama peta (contoh: tag HTML). Silakan perbaiki nama tersebut dan coba lagi.
+The website address contains illegal characters. Type a website URL-address without prefixes or a subpage address. For example: homepage.com. Allowed characters are letters (a-z, A-Z, å, ä, ö, Å, Ä, Ö), numbers (0-9) and special characters (-, _, ., !, ~, *, ' and ()). Please correct the address and try again.==Terdapat karakter ilegal pada alamat situs web. Karakter yang valid adalah huruf (a-z,å,ä,ö, A-Z,Å,Ä,Ö), angka (0-9), dan karakter khusus (-, _, ., !, ~, *, ' dan ()). Silakan perbaiki alamat tersebut dan coba lagi.
+Log in==Log in
+No publishable map layers are open in the map window. Please check publishable map layers in the Selected Layers menu.==Tidak ada layer peta yang terbuka pada jendela peta yang dapat dipublikasikan. Silakan perika layer peta yang dapat dipublikasikan pada menu Layer Terpilih.
+NOTE! If you are using this map layer in an embedded map, the map layer will be published.==Catatan: Jika Anda menggunakan layer peta ini dalam sebuah peta yang disematkan, maka layer peta tersebut akan dipublikasikan.
+no permission==tidak ada izin
+unsupported projection==proyeksi tidak didukung
+Terms of Use could not be found.==Syarat Penggunaan tidak dapat ditemukan.
+Reject==Tolak
+Accept==Terima
+The map layer is publishable in embedded maps. The weekly user amount can be limited.==Layer peta dapat dipublikasikan dalam peta yang disematkan. Jumlah pengguna mingguan dapat dibatasi.
+Show only publishable map layers.==Hanya tampilkan layer peta yang dapat dipublikasikan.
+The search term contains illegal characters. Allowed characters are letters (a-z, å, ä, ö, A-Z, Å, Ä, Ö), numbers (0-9), a dot (.), a comma (,), a hyphen (-) and an exclamation mark (!). You can also replace one mark with a question mark (?) or an end part with an asterisk (*).==Terdapat karakter ilegal pada istilah pencarian. Karakter yang valid adalah huruf (a-z, å, ä, ö, A-Z, Å, Ä, Ö), angka (0-9), titik (.), koma (,), tanda strip (-), dan tanda seru (!). Anda juga dapat mengganti satu tanda dengan tanda tanya (?) atau sebuah akhiran dengan tanda bintang (*).
+Your search returned==Pencarian Anda memberikan
+results.==hasil.
+Decrease search results by defining the search term.==Kurang hasil pencarian dengan mendefinisikan istilah pencarian.
+You can sort search results by clicking the headers of the table below.==Anda dapat menyortir hasil pencarian dengan mengeklik header dari tabel di bawah.
+Search result==Hasil pencarian
+results by search term==hasil dari istilah pencarian
+No search results found. Please check the search term and try again.==Tidak ditemukan hasil pencarian. Silakan periksa istilah pencarian dan coba lagi.
+The search term is too short. It must be at least one character long. If you use an asterisk (*), the search tearm must contain at least four other characters.==Istilah pencarian terlalu pendek. Minimal harus mengandung satu karakter. Jika Anda menggunakan tanda bintang (*), istilah pencarian harus mengandung setidaknya empat karakter lain.
+The search term must contain at least one character.==Istilah pencarian harus mengandung setidaknya satu karakter.
+The search term must contain at most one asterisk (*) in the end of the term.==Istilah pencarian harus mengandung paling banyak satu tanda bintang (*) di akhir istilah.
+The search failed.==Pencarian gagal.
+Municipality==Kotamadya
+Region==Wilayah
+Type==Tipe
+Search Results==Hasil Pencarian
+This location has the following alternative place names:==Lokasi ini memiliki nama alternatif sebagai berikut:
+Session Expiring==Sesi Berakhir
+Your session is expiring. Please click {extend} to stay logged in.==Sesi Anda segera berakhir. Silakan klik {extend} untuk tetap login.
+Sign out==Logout
+Session expires in {expires} seconds.==Sesi akan berakhir dalam {expires} detik.
+Animation speed==Kecepatan animasi
+Skip ahead==Lewati
+Slow==Lambat
+Normal==Normal
+Fast==Cepat
+None==Tidak ada
+1 minute==1 menit
+1 hour==1 jam
+1 day==1 hari
+1 week==1 minggu
+1 month==1 bulan
+Multiple layers with time series in use==Beberapa layer dengan seri waktu sedang digunakan
+You can only control the topmost layer.==Anda hanya dapat mengontrol layer teratas.
+<p>Loading the user guide...</p>==<p>Memuat panduan pengguna...</p>
+The user guide could not be loaded.==Panduan pengguna tidak dapat dimuat.
+Map Window==Jendela Peta
+Map Tools==Tool Peta
+Move up in map==Pindah ke atas di peta
+Move down in map==Pindah ke bawah di peta
+Move map==Pindahkan peta
+Setting to rotate map mode failed==Gagal mengubah ke mode rotasi peta
+Camera should be pointed towards earth surface when mode is set==Kamera harus diarahkan ke permukaan bumi saat mode ini aktif
+Switch to 3D map view. A limited number of map levels and tools available.==Ganti ke view peta 3D. Tingkatan peta dan tool yang tersedia terbatas.
+Return to default 2D map view.==Kembali ke view peta 2D default.
+Switch to 2D map view.==Ganti ke view peta 2D.
+Switch to 3D map view.==Ganti ke view peta 3D.
+Polygon self-intersection is not allowed. Draw a valid polygon to see the measurement result.==Poligon tidak boleh bersinggungan dengan dirinya sendiri. Gambar poligon yang valid untuk melihat hasil pengukuran.
+Heatmap==Heatmap
+Heatmap settings==Setelan heatmap
+Weight property==Properti berat
+Radius==Radius
+Color themes==Tema warna
+Select colors==Pilih warna
+Pixels per cell==Piksel tiap sel
+Loading the map...==Memuat peta...
+Country==Negara
+Province==Provinsi
+Town==Kota
+Town district==Distrik kota
+Street==Jalan
+Notice==Perhatian
+Some layers added to this map view cannot be shown with the current map projection.==Beberapa layer yang ditambahkan ke view peta ini tidak dapat ditampilan dengan proyeksi peta saat ini.
+Map Layer cannot be shown.==Layer peta tidak dapat ditampilkan.
+Map layer cannot be shown in selected map projection.==Layer peta tidak dapat ditampilkan dalam proyeksi peta yang terpilih.
+Terms of Use==Syarat Penggunaan
+Select background map==Pilih peta dasar
+Select other map layers==Pilih layer peta lain
+Search location==Cari lokasi
+Close search results.==Tutup hasil pencarian.
+No results could be found. Please check your search term and try again.==Tidak ada hasil pencarian yang ditemukan. Silakan periksa istilah pencarian dan coba lagi.
+Over 100 results found. Please refine your search term and try again.==Lebih dari 100 hasil ditemukan. Silakan periksa istilah pencarian dan coba lagi.
+Feature Data==Feature Data
+Features==Feature
+Web address==Alamat web
+No attributes to show, please open feature data to see hidden attributes.==Tidak ada atribut yang perlu ditampilkan, silakan buka feature data untuk melihat atribut yang tersembunyi.
+Move to previous view==Ke view sebelumnya
+Move to next view==Ke view berikutnya
+Delete all markers==Hapus semua marker
+Map Marker Style==Style Marker Peta
+Define a style for map markers.==Definisikan style untuk marker peta.
+Text on map==Teks pada peta
+Name or description==Nama atau deskripsi
+Error for getting location!==Error untuk mendapatkan lokasi!
+Getting a location takes longer than excepted...==Waktu untuk mendapatkan lokasi lebih dari yang diperkirakan...
+The site has blocked location. Please enable location and try again==Situs telah memblokir lokasi. Silakan aktifkan lokasi dan coba lagi
+Failed to determine location==Tidak dapat menentukan lokasi
+Center map to your location==Pusatkan peta pada lokasi Anda
+Rotating map==Memutar peta
+Default style==Style default
+Own style==Style sendiri
+Own styles==Style sendiri
+Styles==Style
+Add new style==Tambah style baru
+Refresh data products not rendering automatically on the map.==Perbarui produk data yang tidak ter-render secara otomatis pada peta.
+Data Products (WFS) Management==Manajemen Produk Data (WFS)
+The data product is not available. The WFS background service could not be connected.==Produk data tidak tersedia. Tidak dapat melakukan koneksi ke WFS background service.
+The data product is not availlable. The connection to the WFS background service broke down.==Produk data tidak tersedia. Koneksi ke WFS background service terputus.
+You do not have rights to use the data product {layer}.==Anda tidak memiliki hak untuk menggunakan produk data {layer}.
+Settings for the data product {layer} could not be configured.==Tidak dapat mengkonfigurasi setelan untuk produk data {layer}.
+The data product {layer} request could not be completed.==Request produk data {layer} tidak dapat diselesaikan.
+Feature data on the data product {layer} could not be retrieved.==Tidak dapat mengambil feature data pada produk data {layer}.
+Could not load layer==Tidak dapat memuat layer
+Feature Data Rendering==Feature Data Rendering
+There are WFS-layers on the map, which are not rendered automatically. <br/><br/> Locate and zoom in on an area, where features are located.  <br/><br/>  Feature data and features are retrieved via Feature data -button and features are rendered via Refresh-button.==Terdapat layer WFS pada peta yang tidak ter-render secara otomatis. <br/><br/> Cari dan perbesar area di mana terdapat feature. <br/><br/> Feature data dan feature akan diambil melalui tombol feature data dan feature melalui tombol refresh.
+Visibility warning==Peringatan visibilitas
+There are no layers to refresh, please move to a suitable zoom level and try again==Tidak ada layer untuk diperbarui, silakan ganti ke tingkat pembesaran yang sesuai dan coba lagi
+There are no visible layers to refresh, please open selected layers and set visible some of current layers==Tidak ada layer terlihat yang perlu diperbarui, silakan buka Layer Terpilih dan atur layer agar dapat terlihat
+Show places==Tampilkan lokasi
+Scale updated==Skala diperbarui
+Layer not available on current zoom level==Layer tidak tersedia pada tingkat pembesaran saat ini
+Change the displayed time, for example, to see the shadows of the buildings at different time points==Ganti waktu yang ditampilkan, contoh, untuk melihat bayangan dari gedung pada titik waktu yang berbeda-beda.
+Present==Sekarang
+This map view cannot be linked to. Create a new map view and try again.==Tidak dapat membuat tautan ke view peta ini. Silakan buat view peta baru dan coba lagi.
+Move to thematic maps==Pindah ke peta tematik
+SEARCH DATA==DATA PENCARIAN
+No results found matching==Tidak ditemukan hasil yang cocok
+Select gender==Pilih jenis kelamin
+Male==Pria
+Female==Wanita
+Altogether==Semuanya
+Select year==Pilih tahun
+Select areal division==Pilih pembagian areal
+No area selected==Tidak ada area yang dipilih
+No values for the selected data==Tidak ada nilai untuk data yang terpilih.
+AREAL DIVISION==PEMBAGIAN AREAL
+Sort==Sortir
+Sort ascending==Sortir naik
+Sort descending==Sortir turun
+Remove data==Hapus data
+Classification==Klasifikasi
+Data was not selected, select data to see map classification.==Data belum dipilih, pilih data untuk melihat klasifikasi peta.
+The data is too small to be classified, try different data or change limitings.==Data terlalu kecil untuk dapat diklasifikasikan, silakan coba data yang lain atau ganti batas-batasnya.
+Data is not available for the selected point in time.==Data tidak tersedia untuk waktu yang terpilih.
+Legend cannot be created by chosen values, try different values.==Tidak dapat membuat legenda dari nilai yang dipilih, silakan coba nilai lain.
+Gender==Jenis kelamin
+Year==Tahun
+Regional division==Pembagian wilayah
+from==dari
+to==ke
+Show map==Tampilkan peta
+Show table==Tampilkan tabel
+Classification method==Metode klasifikasi
+Class division==Pembagian kelas
+Natural intervals==Interval natural
+Quantiles==Quantiles
+Equal intervals==Interval merata
+Manual classification==Klasifikasi secara manual
+Manual interval classification==Klasifikasi interval secara manual
+Separate values with commas.==Pisahkan nilai dengan koma.
+Class breaks are erroneous. Class breaks must be between {min} - {max}. Separate values with commas. Use decimal point as separator mark. Correct class breaks and try again.==Terdapat error pada rentang kelas. Rentang kelas harus ada di antara {min} - {max}. Pisahkan nilai dengan koma. Gunakan titik desimal sebagai separator. Silakan koreksi rentang kelas dan coba lagi.
+Given value is not a number. Correct value and try again. Use decimal point as separator mark.==Nilai yang diberikan bukan angka. Silakan perbaiki dan coba lagi. Gunakan titik desimal sebagai separator.
+Give class breaks as numbers separated with comma. Use decimal point as separator mark. For example by entering \"0, 10.5, 24, 30.2, 57, 73.1\" you get five classes which values are between \"0-10,5\", \"10,5-24\", \"24-30,2\", \"30,2-57\" and \"57-73,1\". Indicator values which are smaller than lowest class break (in previous exaple 0) or bigger than highest class break (73,1) are not shown in the map. Class breaks must be between smallest and largest value of the indicator.==Buat rentang kelas dengan angka yang dipisahkan koma. Gunakan titik desimal sebagai separator. Sebagai contoh jika mengisi \"0, 10.5, 24, 30.2, 57, 73.1\" Anda akan memiliki lima kelas dengan nilai di antara \"0-10,5\", \"10,5-24\", \"24-30,2\", \"30,2-57\". Nilai indikator yang lebih kecil dari rentang kelas terendah (0 pada contoh sebelumnya) atau yang lebih besar dari rentang kelas terbesar (73,1) tidak ditampilkan pada peta.Rentang kelas harus berada di antara nilai terkecil dan terbesar dari indikator.
+Class breaks==Rentang kelas
+Discontinuous==Discontinuous
+Modify classification==Ubah klasifikasi
+Open the classification editor==Buka editor klasifikasi
+Close the classification editor==Tutup editor klasifikasi
+Classification values==Nilai klasifikasi
+Map style==Style peta
+Choropleth map==Peta Choropleth
+Point symbol map==Peta simbol titik
+Point size==Ukuran titik
+Minimum==Minimum
+Maximum==Maksimum
+Color==Warna
+Transparency==Transparansi
+Show values==Tampilkan nilai
+Number of decimals==Jumlah desimal
+Flip colors==Balikkan warna
+Select colors for classes==Pilih warna untuk kelas
+Distribution==Distribution
+Quantitative==Quantitative
+Qualitative==Qualitative
+Diverging==Diverging
+Choose colors by clicking color scheme.==Pilih warna dengan mengeklik skema warna.
+Error occurred in data provider search.==Error dalam pencarian penyedia data.
+Data provider's data list is empty.==Daftar data penyedia data kosong.
+Error occurred in data selection search.==Error dalam pencarian pilihan data.
+There are no selections for the data.==Tidak ada pilihan untuk data.
+Area selections could not be fetched for chosen data.==Tidak dapat mengambil pilihan area untuk data yang terpilih.
+Error occurred in area value search.==Error dalam pencarian nilai area.
+Area values could not be fetched for chosen data.==Tidak dapat mengambil nilai area untuk data yang terpilih.
+Error saving dataset.==Error saat menyimpan dataset.
+Error deleting dataset.==Error saat menghapus dataset.
+Error saving indicator==Error saat menyimpan indikator
+Year field cannot be empty.==Bidang tahun tidak boleh kosong.
+Regionselect cannot be empty.==Regionselect tidak boleh kosong.
+Datasource is empty.==Datasource kosong.
+Indicator cannot be inspected as a series.==Indikator tidak dapat diperiksa sebagai seri.
+Service did not return data for {indicators, plural, one {the indicator} other {indicators}}==Service tidak mengembalikan data untuk {indicators, plural, one {the indicator} other {indicators}}
+Service did not return all data for {indicators, plural, one {the indicator} other {indicators}}==Service tidak mengembalikan semua data untuk {indicators, plural, one {the indicator} other {indicators}}
+Unknown==Tidak dikenal
+Searched data==Data yang dicari
+Line chart==Grafik garis
+Table and graphs==Tabel dan grafik
+Indicators were not chosen==Indikator tidak dipilih
+Variable to be shown in graph==Variabel yang akan ditampilkan dalam grafik
+Color of the graph==Warna dari grafik
+Selected color==Warna terpilih
+Colors by classification in the map==Warna menurut klasifikasi pada peta
+Select color==Pilih warna
+Filtering==Menyaring
+Variable to be filtered==Variabel yang akan disaring
+Condition==Kondisi
+Variable==Variabel
+Select condition==Pilih kondisi
+Greater than (>)==Lebih dari (>)
+Greater than or equal to (>=)==Lebih besar atau sama dengan (>=)
+Equal to (=)==Sama dengan (=)
+Less than or equal to (<=)==Kurang dari atau sama dengan (<=)
+Less than (<)==Kurang dari (<)
+Between (exclusive)==Di antara (eksklusif)
+Filter values==Saring nilai
+Filter by values==Saring menurut nilai 
+Filtered values==Nilai yang disaring
+Filter by areas==Saring menurut area
+Areal division of thematic map==Pembagian areal dari peta tematik
+Thematic map==Peta tematik
+Delete Indicator==Hapus Indikator
+You are deleting the indicator \"{name}\". Do you want to delete the indicator?==Anda akan menghapus indikator \"{name}\". Apakah Anda ingin menghapus indikator tersebut?
+Indicator removed==Indikator dihapus
+The indicator was not found.==Indikator tidak ditemukan.
+The indicator was not removed.==Indikator tidak dihapus.
+Indicator data==Data indikator
+Datasource==Datasource
+Statistical data==Data statistik
+The data has been saved.==Data telah disimpan.
+Import from the clipboard==Impor dari clipboard
+Enter the indicators data here. Each row should contain a region and it's value. Enter the region's name or id. Use semicolon as a separator. Data can be imported in following formats: \nSample 1: Helsinki;1234 \nSample 2: 011;5678==Input data indikator di sini. Setiap baris harus berisi sebuah wilayah beserta nilainya. Input nama atau id dari wilayah dan gunakan titik koma sebagai separator. Data dapat diimpor dalam format berikut: \nContoh 1: Helsinki;1234 \nContoh 2: 011;5678
+Warning==Peringatan
+Without logging in the data cannot be saved and it will only be available until page reload. Log in before adding the indicator to preserve the data.==Tanpa login data tidak dapat disimpan dan hanya akan tersedia sampai laman dimuat ulang. Silakan login sebelum menambahkan indikator untuk menyimpan data.
+Remove all==Hapus semua
+Show indicator {indicators, plural, one {description} other {descriptions}}==Tampilkan {indicators, plural, one {description} other {descriptions}} indikator
+Indicator {indicators, plural, one {description} other {descriptions}}=={indicators, plural, one {description} other {descriptions}} indikator
+Service did not return {indicators, plural, one {description for the indicator} other {descriptions for the indicators}}==Service tidak mengembalikan {indicators, plural, one {description for the indicator} other {descriptions for the indicators}}
+Select Here==Pilih Disini
+{0} selected=={0} terpilih
+All {0} selected!==Semua {0} terpilih!
+No results found matching \"{0}\"==Tidak ditemukan hasil yang cocok dengan \"{0}\"
