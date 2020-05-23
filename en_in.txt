@@ -570,7 +570,7 @@ Edit Map View==Edit View Peta
 The map view name is required. Please type a name and try again.==Nama view peta diperlukan. Silakan ketik sebuah nama dan coba lagi.
 Delete Map View==Hapus View Peta
 Do you want to delete the map view \"{name}\"?==Apakah Anda ingin menghapus view peta \"{name}\"?
-View default==Lihat default
+View default==View default
 The map view has been saved.==View peta telah disimpan.
 A map layer name is required. Please type a name and try again.==Nama layer peta diperlukan. Silakan ketik sebuah nama dan coba lagi.
 The map layer name contains illegal characters. Allowed characters are the letters (a-z,å,ä,ö, A-Z,Å,Ä,Ö), numbers (0-9), backspaces and hyphens (-). Please correct the name and try again.==Terdapat karakter ilegal pada nama layer peta. Karakter yang valid adalah huruf (a-z,å,ä,ö, A-Z,Å,Ä,Ö), angka (0-9), backspace dan tanda strip (-). Silakan perbaiki nama tersebut dan coba lagi.
