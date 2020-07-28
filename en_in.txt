@@ -979,3 +979,69 @@ Select Here==Pilih Disini
 {0} selected=={0} terpilih
 All {0} selected!==Semua {0} terpilih!
 No results found matching \"{0}\"==Tidak ditemukan hasil yang cocok dengan \"{0}\"
+Download basket==Keranjang unduhan
+Cropping==Crop
+Select a cropping option==Pilih cara crop
+Select the areas you wish to download data from by clicking them on the map. Cropping will include all the features, that intersect the cropping option. If the selected datasets are very large in file size, the processing may take some time. The datasets that have been added to the download basket, are now visible in the download basket -tab. You may remove the selection by clicking the selected areas again.==Pilih area yang datanya ingin Anda unduh dengan mengeklik pada peta. Jika dataset yang terpilih berukuran besar mungkin akan diperlukan beberapa saat untuk memproses. Dataset telah ditambahkan ke keranjang unduhan dan dapat dilihat di tab keranjang unduhan. Anda dapat membatalkan pilihan dengan mengeklik kembali area yang terpilih.
+Areas selected: <strong></strong> pcs, do you wish to move them to download basket?==Area terpilih: <strong></strong>, apakah Anda ingin menambahkan semua ke keranjang unduhan?
+Move to download basket==Pindahkan ke keranjang unduhan
+Remove selection==Hapus pilihan
+Rectangle==Persegi panjang
+Area selection failed==Gagal memilih area
+Do you wish to add selected areas to the download basket?==Apakah Anda ingin menambahkan area yang terpilih ke keranjang unduhan?
+You are about to switch between cropping options, do you wish to add selected areas to the download basket?==Anda akan mengganti cara crop, apakah Anda ingin menambah area yang terpilih ke keranjang unduhan?
+Select a map layer==Pilih layer peta
+Select the layers you wish to download from the MAP LAYERS tab==Pilih layer yang ingin Anda unduh dari tab LAYER PETA
+Caution==Perhatian
+The map layer is currently not available for downloading.==Layer peta tidak tersedia untuk diunduh.
+Your download basket is empty==Keranjang unduhan Anda kosong
+Empty==Kosong
+Download datasets==Unduh dataset
+Enter your e-mail address:==Masukkan alamat email Anda:
+Privacy policy==Kebijakan privasi
+E-mail address==Alamat email
+Confirm email address==Konfirmasi alamat email
+Check email addresses==Periksa alamat email
+Download has failed==Proses unduh gagal
+Thank you for downloading!==Terima kasih sudah mengunduh!
+A download link will be sent to the e-mail address you provided. If the selected datasets are very large in file size, the processing may take some time.==Tautan untuk mengunduh akan dikirimkan ke alamat email Anda. Jika dataset yang terpilih berukuran besar mungkin akan diperlukan beberapa saat untuk memproses.
+Cropping option: ==Cara crop: 
+License: ==Lisensi: 
+Content editor==Editor konten
+Choose feature from map to modify it.==Pilih feature pada peta untuk merubahnya.
+You can also choose multiple features from the map by pressing the ctrl-button on your keyboard.==Anda dapat memilih beberapa feature sekaligus dari peta dengan menekan tombol ctrl pada keyboard.
+Choose point, line or polygon tool to draw new geometries.==Pilih tool untuk titik, garis, atau poligon untuk menggambar geometri baru.
+With geometry editing tool you can edit feature geometry.==Anda dapat mengedit geometri feature dengan tool edit geometri.
+With geometry delete tool you can remove one geometry from feature with multiple geometries.==Dengan tool hapus geometri Anda dapat menghapus sebuah geometri dari feature yang memiliki banyak geometri.
+Add feature==Tambah feature
+Edit feature==Edit feature
+Edit multiple features==Edit feature
+Delete feature==Hapus feature
+Add point geometry==Tambah geometri titik
+Add line geometry==Tambah geometri garis
+Add area geometry==Tambah geometri area
+Edit selected geometry==Edit geometri terpilih
+Remove one geometry==Hapus geometri
+Feature update==Pembaruan feature
+Feature properties updated successfully==Pembaruan properti feature berhasil
+Error occured during feature properties update==Terjadi error saat pembaruan properti feature
+Feature delete==Hapus feature
+Feature deleted successfully==Feature berhasil dihapus
+Error occured during feature delete==Terjadi error saat menghapus feature
+Geometry delete==Hapus geometri
+Geometry deleted successfully==Geometri berhasil dihapus
+Error occured during geometry delete==Terjadi error saat menghapus geometri
+Unsaved changes==Perubahan belum tersimpan
+There are some unsaved changes. Please select below action to perform.==Terdapat perubahan yang belum disimpan. Silakan pilih aksi yang akan dilakukan.
+Delete geometry==Hapus geometri
+Are you sure you want to delete geometry?==Apakah Anda ingin menghapus geometri?
+Are you sure you want to delete feature?==Apakah Anda ingin menghapus feature?
+Form validation error==Error dalam validasi form
+Please correct selected field values==Silakan koreksi nilai field yang terpilih
+Number validation error==Error dalam validasi angka
+Please put correct number value==Silakan masukkan nilai angka yang benar
+Confirm==Konfirmasi
+Are you sure you want to set the given value for all the selected features?==Apakah Anda ingin menetapkan nilai tersebut untuk semua feature yang terpilih?
+Cannot save all features==Tidak dapat menyimpan semua feature
+Change language==Ganti bahasa
+Change==Ganti
