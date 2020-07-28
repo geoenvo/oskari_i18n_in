@@ -979,32 +979,32 @@ Select Here==Pilih Disini
 {0} selected=={0} terpilih
 All {0} selected!==Semua {0} terpilih!
 No results found matching \"{0}\"==Tidak ditemukan hasil yang cocok dengan \"{0}\"
-Download basket==Keranjang unduhan
+Download basket==Keranjang download
 Cropping==Crop
 Select a cropping option==Pilih cara crop
-Select the areas you wish to download data from by clicking them on the map. Cropping will include all the features, that intersect the cropping option. If the selected datasets are very large in file size, the processing may take some time. The datasets that have been added to the download basket, are now visible in the download basket -tab. You may remove the selection by clicking the selected areas again.==Pilih area yang datanya ingin Anda unduh dengan mengeklik pada peta. Jika dataset yang terpilih berukuran besar mungkin akan diperlukan beberapa saat untuk memproses. Dataset telah ditambahkan ke keranjang unduhan dan dapat dilihat di tab keranjang unduhan. Anda dapat membatalkan pilihan dengan mengeklik kembali area yang terpilih.
-Areas selected: <strong></strong> pcs, do you wish to move them to download basket?==Area terpilih: <strong></strong>, apakah Anda ingin menambahkan semua ke keranjang unduhan?
-Move to download basket==Pindahkan ke keranjang unduhan
+Select the areas you wish to download data from by clicking them on the map. Cropping will include all the features, that intersect the cropping option. If the selected datasets are very large in file size, the processing may take some time. The datasets that have been added to the download basket, are now visible in the download basket -tab. You may remove the selection by clicking the selected areas again.==Pilih area yang datanya ingin Anda download dengan mengeklik pada peta. Jika dataset yang terpilih berukuran besar mungkin akan diperlukan beberapa saat untuk memproses. Dataset telah ditambahkan ke keranjang download dan dapat dilihat di tab keranjang download. Anda dapat membatalkan pilihan dengan mengeklik kembali area yang terpilih.
+Areas selected: <strong></strong> pcs, do you wish to move them to download basket?==Area terpilih: <strong></strong>, apakah Anda ingin menambahkan semua ke keranjang download?
+Move to download basket==Pindahkan ke keranjang download
 Remove selection==Hapus pilihan
 Rectangle==Persegi panjang
 Area selection failed==Gagal memilih area
-Do you wish to add selected areas to the download basket?==Apakah Anda ingin menambahkan area yang terpilih ke keranjang unduhan?
-You are about to switch between cropping options, do you wish to add selected areas to the download basket?==Anda akan mengganti cara crop, apakah Anda ingin menambah area yang terpilih ke keranjang unduhan?
+Do you wish to add selected areas to the download basket?==Apakah Anda ingin menambahkan area yang terpilih ke keranjang download?
+You are about to switch between cropping options, do you wish to add selected areas to the download basket?==Anda akan mengganti cara crop, apakah Anda ingin menambah area yang terpilih ke keranjang download?
 Select a map layer==Pilih layer peta
-Select the layers you wish to download from the MAP LAYERS tab==Pilih layer yang ingin Anda unduh dari tab LAYER PETA
+Select the layers you wish to download from the MAP LAYERS tab==Pilih layer yang ingin Anda download dari tab LAYER PETA
 Caution==Perhatian
-The map layer is currently not available for downloading.==Layer peta tidak tersedia untuk diunduh.
-Your download basket is empty==Keranjang unduhan Anda kosong
+The map layer is currently not available for downloading.==Layer peta tidak tersedia untuk didownload.
+Your download basket is empty==Keranjang download Anda kosong
 Empty==Kosong
-Download datasets==Unduh dataset
+Download datasets==Download dataset
 Enter your e-mail address:==Masukkan alamat email Anda:
 Privacy policy==Kebijakan privasi
 E-mail address==Alamat email
 Confirm email address==Konfirmasi alamat email
 Check email addresses==Periksa alamat email
-Download has failed==Proses unduh gagal
-Thank you for downloading!==Terima kasih sudah mengunduh!
-A download link will be sent to the e-mail address you provided. If the selected datasets are very large in file size, the processing may take some time.==Tautan untuk mengunduh akan dikirimkan ke alamat email Anda. Jika dataset yang terpilih berukuran besar mungkin akan diperlukan beberapa saat untuk memproses.
+Download has failed==Proses download gagal
+Thank you for downloading!==Terima kasih sudah mendownload!
+A download link will be sent to the e-mail address you provided. If the selected datasets are very large in file size, the processing may take some time.==Tautan untuk mendownload akan dikirimkan ke alamat email Anda. Jika dataset yang terpilih berukuran besar mungkin akan diperlukan beberapa saat untuk memproses.
 Cropping option: ==Cara crop: 
 License: ==Lisensi: 
 Content editor==Editor konten
