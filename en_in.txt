@@ -66,14 +66,14 @@ Show only layers with time series==Hanya tampilkan layer dengan data seri waktu
 Show only vector layers==Hanya tampilkan layer vektor
 Show only 3D-datasets==Hanya tampilkan dataset 3D
 My Data==Data Saya
-In the My Data menu you can check all your saved data and profile information. <br/><br/> Check and edit your saved places, map views, embedded maps, indicators, analysis and datasets. <br/><br/> My Data is available only for logged-in users.==Di menu Data Saya Anda dapat melihat semua data Anda yang tersimpan dan informasi profil. <br/><br/> Akses dan edit data Anda yang tersimpan terkait lokasi, view peta, peta yang disematkan, indikator, analisis serta dataset. <br/><br/> Data Saya hanya tersedia untuk pengguna yang telah login.
+In the My Data menu you can check all your saved data and profile information. <br/><br/> Check and edit your saved places, map views, embedded maps, indicators, analysis and datasets. <br/><br/> My Data is available only for logged-in users.==Di menu Data Saya Anda dapat melihat semua data Anda yang tersimpan dan informasi profil. <br/><br/> Akses dan edit data Anda yang tersimpan terkait lokasi, tampilan peta, peta yang disematkan, indikator, analisis serta dataset. <br/><br/> Data Saya hanya tersedia untuk pengguna yang telah login.
 Hide My data==Tutup Data Saya
 Show My data==Tampilkan Data Saya
-As a logged-in user you can see here your account information and all your saved places, map views, embedded maps, indicators, analysis and datasets.==Setelah login, di sini Anda dapat melihat informasi tentang akun, lokasi tersimpan, view peta, peta yang disematkan, indikator, analisis serta dataset.
+As a logged-in user you can see here your account information and all your saved places, map views, embedded maps, indicators, analysis and datasets.==Setelah login, di sini Anda dapat melihat informasi tentang akun, lokasi tersimpan, tampilan peta, peta yang disematkan, indikator, analisis serta dataset.
 Map Publishing==Publikasi Peta
 Map publishing==Publikasi Peta
 Create Embedded Map==Buat Peta Untuk Disematkan (Embed)
-In the Map Publishing menu you can publish embedded maps on your own website. <br/><br/> Select map layers, define a website, select tools and desing a layout. Click Save and your map is ready for publishing. Jast copy one line html code to your website. <br/><br/> If you want to update the map, you can find it in the My Data menu. Updates are shown immediately on your map. <br/><br/> Map Publishing is available only for logged-in users.==Di menu Publikasi Peta Anda dapat mempublikasikan peta yang bisa disematkan pada situs web Anda. <br/><br/> Pilih layer peta yang ingin ditampilkan, tentukan situs web tujuan penyematan, pilih tool yang diperlukan, kemudian atur layout tampilan. Klik Simpan dan peta Anda siap untuk dipublikasikan. Terakhir lakukan copy paste satu baris kode html ke situs web Anda. <br/><br/> Untuk memperbarui sebuah peta Anda dapat melakukannya dari menu Data Saya. Perubahan yang dilakukan akan langsung terlihat pada peta Anda. <br/><br/> Publikasi Peta hanya tersedia untuk pengguna yang telah login.
+In the Map Publishing menu you can publish embedded maps on your own website. <br/><br/> Select map layers, define a website, select tools and desing a layout. Click Save and your map is ready for publishing. Jast copy one line html code to your website. <br/><br/> If you want to update the map, you can find it in the My Data menu. Updates are shown immediately on your map. <br/><br/> Map Publishing is available only for logged-in users.==Di menu Publikasi Peta Anda dapat mempublikasikan peta yang bisa disematkan pada situs web Anda. <br/><br/> Pilih layer peta yang ingin ditampilkan, tentukan situs web tujuan penyematan, pilih alat yang diperlukan, kemudian atur layout tampilan. Klik Simpan dan peta Anda siap untuk dipublikasikan. Terakhir lakukan copy paste satu baris kode html ke situs web Anda. <br/><br/> Untuk memperbarui sebuah peta Anda dapat melakukannya dari menu Data Saya. Perubahan yang dilakukan akan langsung terlihat pada peta Anda. <br/><br/> Publikasi Peta hanya tersedia untuk pengguna yang telah login.
 Hide Map Publishing==Tutup Publikasi Peta
 Show Map Publishing==Tampilkan Publikasi Peta
 Welcome to publish embedded map on your website. Please log in or register first.==Anda dapat mempublikasikan peta untuk disematkan pada situs web Anda. Silakan login atau mendaftar terlebih dahulu.
@@ -96,7 +96,7 @@ Select Color Scheme==Pilih Skema Warna
 Language==Bahasa
 Select a language to be used on the final map. It affects the user interface and text on the map. Note! The language selection is not visible on the preview.==Pilih bahasa yang akan digunakan pada peta. Antarmuka dan teks pada peta akan menyesuaikan dengan bahasa terpilih. Catatan: Pemilihan bahasa tidak terlihat pada pratinjau.
 Map Size==Ukuran Peta
-Select preview mode.==Pilih mode pratinjau.
+Select preview mode.==Pilih moda pratinjau.
 Space filling==Mengisi ruang
 Small==Kecil
 Medium==Sedang
@@ -106,10 +106,10 @@ width==lebar
 height==tinggi
 The background layer is shown at the bottom layer on the map. If you select several background maps, only one of them can be visible at a time. User can select a background layer in the user interface. Please select a default background map in the map preview.==Layer dasar ditampilkan sebagai layer paling bawah pada peta. Jika Anda memilih beberapa peta dasar, hanya salah satu yang dapat dilihat. Pengguna kemudian akan dapat mengganti peta dasar yang ditampilkan. Silakan pilih peta dasar default pada pratinjau peta.
 Add map layer==Tambahkan layer peta
-Select available map tools. Check a placement in the map preview.==Pilih tool peta yang disediakan. Periksa penempatannya di pratinjau peta.
+Select available map tools. Check a placement in the map preview.==Pilih alat peta yang disediakan. Periksa penempatannya di pratinjau peta.
 Select==Pilih
-Tool Placement==Posisi Tools
-Select a placement for map tools.==Pilih posisi untuk letak tools peta.
+Tool Placement==Posisi Alat
+Select a placement for map tools.==Pilih posisi untuk letak alat peta.
 Lefthanded==Sisi kiri
 Righthanded==Sisi kanan
 Custom placement==Peletakan khusus
@@ -117,7 +117,7 @@ Start editing==Mulai edit
 Finish editing==Selesai edit
 Graphic Layout==Penataan Grafis
 Font style==Style font
-Tool style==Style tool
+Tool style==Style alat
 Map Legends==Legenda Peta
 Map legends are visual explanations of the symbols and colours used on the map.==Legenda Peta menampilkan simbol dan warna terkait layer yang ditampilkan pada peta.
 Hide Map Legends==Tutup Legenda Peta
@@ -127,13 +127,13 @@ User Guide==Panduan Pengguna
 Learn more about how to use this service by reading the User Guide.==Pelajari fitur-fitur dan cara penggunaan aplikasi ini melalui Panduan Pengguna.
 Hide User Guide==Tutup Panduan Pengguna
 Show User Guide==Tampilkan Panduan Pengguna
-Use tools to edit your map view. Keep a mouse pointer on top of tool and you can read instructions for the tool. <br/> <br/> Some of tools are available only for logged-in users.==Gunakan tools untuk mengedit view peta Anda. Letakkan kursor mouse di atas sebuah tool untuk menampilkan instruksi penggunaan tool tersebut. <br/> <br/> Sebagian tools hanya tersedia untuk pengguna yang telah login.
-Pan Map View==Menggeser View Peta
-You can pan the map view in several ways. <br/><br/>  Select a hand tool and drag the map view with a mouse.<br/><br/>  Use arrow keys on your keyboard. <br/><br/>  Click arrows in the panning tool. You can find it in the upper right corner.==Anda dapat menggeser view peta dengan beberapa cara. <br/><br/>  Pilih hand tool dan geser view peta dengan mouse.<br/><br/>  Gunakan tombol arah pada keyboard Anda. <br/><br/>  Klik panah yang terdapat pada panning tool. Tool tersebut berada di pojok kanan atas jendela peta.
-Zoom In and Out Map View==Memperbesar dan Memperkecil View Peta
-You can zoom in and out the map view in several ways. <br/><br/> Select a scale from the zoom bar. You can also click (+) and (-) buttons in the heads of the zoom bar. <br/> <br/> Use (+) and (-) keys in your keyboard. <br/> <br/> Double-click the map view or use a \"magnifier tool\" to zoom in the map view.==Anda dapat memperbesar dan memperkecil view peta dengan beberapa cara. <br/><br/> Pilih skala dari kontrol skala yang terdapat di pojok kanan atas jendela peta. Anda juga dapat mengeklik tombol (+) dan (-) di ujung kontrol skala. <br/> <br/> Tekat tombol (+) dan (-) pada keyboard Anda. <br/> <br/> Klik ganda pada view peta atau gunakan \"magnifier tool\" untuk memperbesar view peta.
+Use tools to edit your map view. Keep a mouse pointer on top of tool and you can read instructions for the tool. <br/> <br/> Some of tools are available only for logged-in users.==Gunakan alat untuk mengedit tampilan peta Anda. Letakkan kursor mouse di atas sebuah alat untuk menampilkan instruksi penggunaan alat tersebut. <br/> <br/> Sebagian alat hanya tersedia untuk pengguna yang telah login.
+Pan Map View==Menggeser Tampilan Peta
+You can pan the map view in several ways. <br/><br/>  Select a hand tool and drag the map view with a mouse.<br/><br/>  Use arrow keys on your keyboard. <br/><br/>  Click arrows in the panning tool. You can find it in the upper right corner.==Anda dapat menggeser tampilan peta dengan beberapa cara. <br/><br/>  Pilih alat tangan (hand tool) dan geser tampilan peta dengan mouse.<br/><br/>  Gunakan tombol arah pada keyboard Anda. <br/><br/>  Klik panah yang terdapat pada alat geser. Alat tersebut berada di pojok kanan atas jendela peta.
+Zoom In and Out Map View==Memperbesar dan Memperkecil Tampilan Peta
+You can zoom in and out the map view in several ways. <br/><br/> Select a scale from the zoom bar. You can also click (+) and (-) buttons in the heads of the zoom bar. <br/> <br/> Use (+) and (-) keys in your keyboard. <br/> <br/> Double-click the map view or use a \"magnifier tool\" to zoom in the map view.==Anda dapat memperbesar dan memperkecil tampilan peta dengan beberapa cara. <br/><br/> Pilih skala dari garis pembesaran yang terdapat di pojok kanan atas jendela peta. Anda juga dapat mengeklik tombol (+) dan (-) di ujung garis pembesaran. <br/> <br/> Tekat tombol (+) dan (-) pada keyboard Anda. <br/> <br/> Klik ganda pada tampilan peta atau gunakan \"magnifier tool\" untuk memperbesar tampilan peta.
 Coordinates==Koordinat
-With the coordinates tool you can see the current coordinates, pan to specific coordinates and add markers.==Dengan \"coordinates tool\" Anda dapat melihat koordinat, menggeser ke koordinat tertentu, atau menambahkan marker.
+With the coordinates tool you can see the current coordinates, pan to specific coordinates and add markers.==Dengan \"alat koordinat\" Anda dapat melihat koordinat, menggeser ke koordinat tertentu, atau menambahkan marker.
 Thematic maps==Peta tematik
 Thematic Maps==Peta Tematik
 Time series==Seri waktu
@@ -158,16 +158,16 @@ Name ascending==Nama A-Z
 Name descending==Nama Z-A
 Value ascending==Nilai naik
 Value descending==Nilai menurun
-Move to the original map view==Kembali ke view peta awal
+Move to the original map view==Kembali ke tampilan peta awal
 Show coordinates or type coordinates and focus map on them.==Tampilkan koordinat atau input sebuah koordinat dan pusatkan pada peta.
 Rotate map==Putar peta
 Search data==Pencarian data
 Table==Tabel
 Bar chart==Grafik batang
-Move to the original map view.==Ke view peta awal.
-Move to the previous map view.==Ke view peta sebelumnya.
-Move to the next map view.==Ke view peta berikutnya.
-Zoom in the map view.==Perbesar view peta.
+Move to the original map view.==Ke tampilan peta awal.
+Move to the previous map view.==Ke tampilan peta sebelumnya.
+Move to the next map view.==Ke tampilan peta berikutnya.
+Zoom in the map view.==Perbesar tampilan peta.
 Pan the map by dragging it with a mouse.==Geser peta dengan cara menggesernya menggunakan mouse.
 Measure a line on the map.==Ukur panjang sebuah garis pada peta.
 Measurement Results==Hasil Pengukuran
@@ -175,15 +175,15 @@ Draw a measurable line by clicking its breaking points.==Gambar sebuah garis pen
 Delete all measurements==Hapus semua hasil pengukuran
 Measure an area on the map.==Ukur luas sebuah area pada peta.
 Draw a measurable area by clicking its corner points.==Gambar sebuah area pengukuran dengan mengeklik pada titik-titik sudutnya.
-Save a map view.==Simpan view peta.
-Save Map View==Simpan View Peta
+Save a map view.==Simpan tampilan peta.
+Save Map View==Simpan Tampilan Peta
 Description==Deskripsi
-Default view==View default
-Link to Map View==Buat Tautan Ke View Peta
+Default view==Tampilan default
+Link to Map View==Buat Tautan Ke Tampilan Peta
 Show a marker in the center of the map==Tampilkan sebuah marker di tengah peta
 Do not show quick guide==Jangan tampilkan panduan
 Copy the link to the clipboard==Copy tautan ke clipboard
-Make a link to the map view.==Buat tautan ke view peta.
+Make a link to the map view.==Buat tautan ke tampilan peta.
 Map marker==Marker peta
 Map Marker==Marker Peta
 Select a new location for your map marker by clicking the map.==Pilih lokasi baru untuk marker peta Anda dengan mengeklik pada peta.
@@ -232,8 +232,8 @@ Delete map layer==Hapus layer peta
 The default map layer cannot be deleted.==Layer peta default tidak dapat dihapus.
 My Map Layers==Layer Peta Saya
 My map layer==Layer Peta Saya
-My Map Views==View Peta Saya
-Save current view==Simpan view terkini
+My Map Views==Tampilan Peta Saya
+Save current view==Simpan tampilan terkini
 Embedded Maps==Peta Yang Disematkan
 My Account==Akun Saya
 First name==Nama depan
@@ -244,47 +244,47 @@ Layer Rights==Hak Akses Layer
 Map Layer==Layer Peta
 A: Users==A: Pengguna
 Users==Pengguna
-A: Roles==A: Role (Peran)
+A: Roles==A: Peran
+A: Map Layers==A: Layer Peta
 User management==Manajemen Pengguna
 Last name==Nama belakang
 Administration==Administrasi
 Retype password==Ketik ulang password
-Select role==Pilih role
-Add role:==Tambah role:
+Select role==Pilih peran
+Add role:==Tambah peran:
 Delete==Hapus
-Default Views==View Default
-Define map layers, zoom level and map view area. Set the map view as the default view  by pressing 'Set as default view'.==Tentukan daftar susunan layer peta, tingkat pembesaran, dan area view peta. Jadikan view peta tersebut sebagai view default dengan mengeklik 'Jadikan sebagai view default'
-Set as default view==Jadikan sebagai view default
-*Global Default View*==*View Default Global*
+Default Views==Tampilan Default
+Define map layers, zoom level and map view area. Set the map view as the default view  by pressing 'Set as default view'.==Tentukan daftar susunan layer peta, tingkat pembesaran, dan area tampilan peta. Jadikan tampilan peta tersebut sebagai tampilan default dengan mengeklik 'Jadikan sebagai tampilan default'
+Set as default view==Jadikan sebagai tampilan default
+*Global Default View*==*Tampilan Default Global*
 Saving Succeeded==Berhasil Disimpan
-The default view (id=${id}) has been updated.==View default (id=${id}) berhasil diperbarui.
+The default view (id=${id}) has been updated.==Tampilan default (id=${id}) berhasil diperbarui.
 These are the layers that are available in the service. Please select one to add as a map layer==Berikut layer yang tersedia di service. Silakan pilih salah satu untuk ditambahkan sebagai layer peta
 Dataprovider name==Nama penyedia data
 Edit dataprovider==Edit penyedia data
 Theme name==Nama tema
 Edit theme==Edit tema
-Default views could not be loaded.==View default tidak dapat dimuat.
-The default view (id=${id}) could not be updated.==View default (id=${id}) tidak dapat diperbarui.
+Default views could not be loaded.==Tampilan default tidak dapat dimuat.
+The default view (id=${id}) could not be updated.==Tampilan default (id=${id}) tidak dapat diperbarui.
 Guest users have no rights to see following map layers:==Pengguna tamu (guest) tidak memiliki hak untuk melihat layer peta berikut:
 Map Layer Rights==Hak Akses Layer Peta
 Layer Rights Management==Manajemen Hak Akses Layer
 Layer Rights Saved==Hak Akses Layer Tersimpan
 Map layer rights have been updated.==Hak akses layer peta telah diperbarui.
 Map layer rights could not been updated.==Hak akses layer peta tidak dapat diperbarui.
-Select role(s)==Pilih role
+Select role(s)==Pilih peran
 Passwords don't match.==Password tidak cocok.
 Password should be at least eight characters long.==Panjang password minimal harus delapan karakter.
 Values are missing or invalid.==Ada nilai yang belum diisi atau tidak valid.
 Field \"{fieldName}\" is required.==Field \"{fieldName}\" diperlukan.
 Are you sure you wish to delete user {user}?==Apakah Anda yakin ingin menghapus pengguna {user}?
-The user could not be deleted.==User tersebut tidak dapat dihapus.
 Users could not be fetched.==Tidak dapat memuat daftar pengguna.
 User could not be saved.==Pengguna tidak dapat disimpan.
 Please check at username is unique and try again.==Mohon pastikan username sudah unik dan silakan coba kembali.
 No results matched==Tidak ada hasil yang cocok
-Are you sure you wish to delete role {role}?==Apakah Anda yakin ingin menghapus role {role}?
-The user could not be deleted.==User tersebut tidak dapat dihapus.
-The new role could not be saved.==Role baru tidak dapat disimpan.
+Are you sure you wish to delete role {role}?==Apakah Anda yakin ingin menghapus peran {role}?
+The user could not be deleted.==Pengguna tersebut tidak dapat dihapus.
+The new role could not be saved.==Peran baru tidak dapat disimpan.
 The status information for this map layer is not available.==Informasi status untuk layer peta ini tidak tersedia.
 Center map==Pusatkan peta
 Add marker==Tambah marker
@@ -300,7 +300,7 @@ The coordinates recommended to be used in emergency calls are==Koordinat yang di
 Show coordinates &raquo;==Tampilkan koordinat &raquo;
 &laquo; Input values==&laquo; Nilai input
 Coordinates cannot transformed==Koordinat tidak dapat ditransformasikan
-Show coordinate transformation tools==Tampilkan tool untuk transformasi koordinat
+Show coordinate transformation tools==Tampilkan alat untuk transformasi koordinat
 Hide user interface (Use RPC interface)==Sembunyikan antarmuka pengguna (gunakan antarmuka RPC)
 Exit==Keluar
 Select language==Pilih bahasa
@@ -368,8 +368,8 @@ No file selected.==Tidak ada file yang dipilih.
 Loading...==Memuat...
 Feature data are not available for the selected map layers.==Feature data tidak tersedia untuk layer peta yang terpilih.
 Data type==Tipe data
-Feature data are not available on this scale level. Please use the scale bar to select another scale level.==Feature data tidak tersedia untuk tingkat skala ini. Silakan gunakan kontrol skala untuk memilih tingkat skala yang lain.
-Feature data are invalid. Please update data by panning the map view slightly.==Feature data tidak valid. Silakan perbarui data dengan menggeser view peta sedikit.
+Feature data are not available on this scale level. Please use the scale bar to select another scale level.==Feature data tidak tersedia untuk tingkat skala ini. Silakan gunakan garis skala untuk memilih tingkat skala yang lain.
+Feature data are invalid. Please update data by panning the map view slightly.==Feature data tidak valid. Silakan perbarui data dengan menggeser tampilan peta sedikit.
 The map layer has no feature data.==Layer peta tidak memiliki feature data.
 Select visible columns==Pilih kolom yang ditampilkan
 Statistical values==Nilai statistik
@@ -390,7 +390,7 @@ Hide==Sembunyikan
 The map layer is temporarily hidden.==Layer peta sementara disembunyikan.
 The map layer cannot be shown at this scale level.==Layer peta tidak dapat ditampilkan pada tingkat skala ini.
 Move to a suitable map level.==Pindah ke tingkat peta yang sesuai.
-The map layer has no features at the map view area.==Layer peta tidak memiliki feature di area view peta.
+The map layer has no features at the map view area.==Layer peta tidak memiliki feature di area tampilan peta.
 Move to a suitable location.==Pindah ke lokasi yang sesuai.
 Publication prohibited==Publikasi dilarang
 Please log in, if you want to publish the map layer in an embedded map.==Silakan login jika Anda ingin mempublikasikan layer peta dalam sebuat peta yang disematkan.
@@ -428,8 +428,8 @@ The map layer may be periodically not available during the next few days.==Layer
 Remove filter==Hapus filter
 In the Map Layers menu you can find all the map layers in the map service. <br/><br/> Search map layers by a map layer name, a data provider name or a keyword. Newest map layers, vector layers and publishable layers you can find in pre-defined lists.<br/><br/> Open map layers you can check in the Selected Layers tab.==Di menu Layer Peta Anda dapat menemukan semua layer peta dari service.<br/><br/>Cari layer peta menurut nama layer peta, nama penyedia data, atau kata kunci. Layer peta terbaru, layer vektor, dan layer yang dapat dipublikasikan dapat ditemukan di daftar yang tersedia.<br/><br/> Layer peta yang terbuka dapat dilihat di tab Layer Terpilih.
 Remove layer for selected==Hapus layer untuk yang terpilih
-Open layer tools==Buka tool layer
-Close layer tools==Tutup tool layer
+Open layer tools==Buka alat layer
+Close layer tools==Tutup alat layer
 Zoom to layer extent==Perbesar ke luasan layer
 The map layer is publishable in embedded maps. The weekly usage limit may be limited.==Layer peta dapat dipublikasikan ke peta yang disematkan. Batas penggunaan mingguan mungkin terbatas.
 Attention!==Perhatian!
@@ -566,21 +566,21 @@ Other languages==Bahasa lain
 Register==Mendaftar
 Projections are incompatible==Proyeksi tidak kompatibel
 The page reloads to change the projection==Laman dimuat ulang untuk mengubah proyeksi
-Edit Map View==Edit View Peta
-The map view name is required. Please type a name and try again.==Nama view peta diperlukan. Silakan ketik sebuah nama dan coba lagi.
-Delete Map View==Hapus View Peta
-Do you want to delete the map view \"{name}\"?==Apakah Anda ingin menghapus view peta \"{name}\"?
-View default==View default
-The map view has been saved.==View peta telah disimpan.
+Edit Map View==Edit Tampilan Peta
+The map view name is required. Please type a name and try again.==Nama tampilan peta diperlukan. Silakan ketik sebuah nama dan coba lagi.
+Delete Map View==Hapus Tampilan Peta
+Do you want to delete the map view \"{name}\"?==Apakah Anda ingin menghapus tampilan peta \"{name}\"?
+View default==Tampilan default
+The map view has been saved.==Tampilan peta telah disimpan.
 A map layer name is required. Please type a name and try again.==Nama layer peta diperlukan. Silakan ketik sebuah nama dan coba lagi.
 The map layer name contains illegal characters. Allowed characters are the letters (a-z,å,ä,ö, A-Z,Å,Ä,Ö), numbers (0-9), backspaces and hyphens (-). Please correct the name and try again.==Terdapat karakter ilegal pada nama layer peta. Karakter yang valid adalah huruf (a-z,å,ä,ö, A-Z,Å,Ä,Ö), angka (0-9), backspace dan tanda strip (-). Silakan perbaiki nama tersebut dan coba lagi.
-Map view name==Nama view peta
-A system error occurred. The map view could not be saved.==Terjadi error pada sistem. View peta tidak dapat disimpan.
-The map view could not be saved.==View peta tidak dapat disimpan.
-The map view could not be deleted.==View peta tidak dapat dihapus.
-The map view could not be published.==View peta tidak dapat dipublikasikan.
-The map view could not be unpublished.==View peta tidak dapat dibatalkan publikasinya.
-Map views could not be retrieved.==View peta tidak dapat diambil.
+Map view name==Nama tampilan peta
+A system error occurred. The map view could not be saved.==Terjadi error pada sistem. Tampilan peta tidak dapat disimpan.
+The map view could not be saved.==Tampilan peta tidak dapat disimpan.
+The map view could not be deleted.==Tampilan peta tidak dapat dihapus.
+The map view could not be published.==Tampilan peta tidak dapat dipublikasikan.
+The map view could not be unpublished.==Tampilan peta tidak dapat dibatalkan publikasinya.
+Map views could not be retrieved.==Tampilan peta tidak dapat diambil.
 Show on the map==Tampilkan pada peta
 HTML code==Kode HTML
 Publication==Publikasi
@@ -609,8 +609,8 @@ Delete Account==Hapus Akun
 Yes==Ya
 No==Tidak
 Print==Cetak
-Print the current map view to a PNG image or a PDF file.==Cetak view peta ini ke gambar PNG atau file PDF.
-Print Map View==Cetak View Peta
+Print the current map view to a PNG image or a PDF file.==Cetak tampilan peta ini ke gambar PNG atau file PDF.
+Print Map View==Cetak Tampilan Peta
 required==diperlukan
 Type a name for your print-out. Please note the language used in the map layers.==Ketik nama untuk cetakan Anda. Harap disesuaikan dengan bahasa yang digunakan pada layer peta.
 Select a language for your print-out. Please note the language used in the user interface and map layers.==Pilih bahasa untuk cetakan Anda. Harap disesuaikan dengan bahasa yang digunakan pada antarmuka pengguna dan layer peta.
@@ -640,7 +640,7 @@ Help==Bantuan
 Error in size definitions==Error pada definisi ukuran
 Name is required information==Nama diperlukan
 There is no help available.==Tidak ada bantuan yang tersedia.
-Printing the map view not succeeded. Please try again later.==Tidak berhasil mencetak view peta. Silakan coba lagi nanti.
+Printing the map view not succeeded. Please try again later.==Tidak berhasil mencetak tampilan peta. Silakan coba lagi nanti.
 The name contains disallowed characters. Allowed characters are the letters a-z as well as å, ä and ö, numbers, backspaces and hyphens.==Terdapat karakter ilegal pada nama. Karakter yang valid adalah huruf (a-z,å,ä,ö, A-Z,Å,Ä,Ö), angka (0-9), backspace dan tanda strip (-).
 Specify the scale to be used for printing==Tentukan skala yang akan digunakan untuk mencetak
 Use the map scale==Gunakan skala peta
@@ -649,7 +649,7 @@ The following maplayers are not shown on the printout==Layer peta berikut tidak 
 The printout does not show all layers==Cetakan tidak menampilkan semua layer
 You can make a print of your map in PDF and PNG formats.==Anda dapat mencetak peta Anda dalam format PDF dan PNG.
 You can use at most eight map layers in the printout.==Anda dapat menggunakan maksimal delapan layer peta dalam cetakan.
-Printing out the map view may take some time when multiple layers are selected.==Mencetak view peta mungkin memerlukan waktu ketika beberapa layer terpilih.
+Printing out the map view may take some time when multiple layers are selected.==Mencetak tampilan peta mungkin memerlukan waktu ketika beberapa layer terpilih.
 Embedded Map Saved==Peta Yang Disematkan Tersimpan
 The embedded map has been saved. Publish it on your website by copying this code to the html code on your website:==Peta yang disematkan telah tersimpan. Anda dapat mempublikasikannya pada situs web Anda dengan mengcopy kode HTML berikut ke situs Anda:
 Opening embedded map…==Membuka peta yang disematkan…
@@ -661,29 +661,29 @@ Update Embedded Map==Perbarui Peta Yang Disematkan
 Transfer configuration==Konfigurasi transfer
 Enable transfer==Aktifkan transfer
 Note! The language selection is not visible on the preview.==Catatan: Pemilihan bahasa tidak terlihat pada pratinjau.
-Scale bar==Scale bar
+Scale bar==Garis skala
 Time series player==Pemutar seri waktu
 Index map==Peta indeks
-Pan tool==Pan tool
-Zoom bar==Zoom bar
+Pan tool==Alat geser
+Zoom bar==Garis pembesaran
 Center to location==Pusatkan ke lokasi
-Pan by mouse==Pan by mouse
+Pan by mouse==Geser menggunakan mouse
 Place search==Pencarian lokasi
 Feature data==Feature data
-Feature query tool==Feature query tool
-Map tools==Tool Peta
+Feature query tool==Alat query feature
+Map tools==Alat Peta
 Select map layer==Pilih layer peta
 Map layers menu==Menu layer peta
-Coordinate tool==Coordinate tool
+Coordinate tool==Alat koordinat
 Feedback (Open311) service==Feedback (Open311) service
 Show map legend==Tampilkan legenda peta
 Enable map rotation==Aktifkan rotasi peta
 Show map focal point==Tampilkan titik fokus peta
-Camera tools==Camera tools
-Time control==Time control
+Camera tools==Alat kamera
+Time control==Kontrol waktu
 Measure distance==Ukur jarak
 Measure area==Ukur area
-Drawing tools==Drawing tools
+Drawing tools==Alat menggambar
 Adding own places==Menambahkan lokasi sendiri
 Allow point features==Izinkan feature garis
 Allow line features==Izinkan feature garis
@@ -695,8 +695,8 @@ My map layers==Layer peta saya
 Select the background map layer. You can select the default background map layer in the map preview.==Pilih layer peta latar. Anda dapat memilih layer peta latar default di pratinjau peta.
 Select as baselayer==Pilih sebagai layer dasar
 Allow style change==Izinkan mengganti style
-Single==Single
-Continuous==Continuous
+Single==Tunggal
+Continuous==Terus menerus
 Enable functionality only for mobile devices==Aktifkan fungsionalitas hanya untuk perangkat mobile
 Center map on user location at startup==Pusatkan peta pada lokasi pengguna saat memulai
 Show thematic maps on the map.==Tampilkan peta tematik pada peta.
@@ -776,16 +776,16 @@ You can only control the topmost layer.==Anda hanya dapat mengontrol layer terat
 <p>Loading the user guide...</p>==<p>Memuat panduan pengguna...</p>
 The user guide could not be loaded.==Panduan pengguna tidak dapat dimuat.
 Map Window==Jendela Peta
-Map Tools==Tool Peta
+Map Tools==Alat Peta
 Move up in map==Pindah ke atas di peta
 Move down in map==Pindah ke bawah di peta
 Move map==Pindahkan peta
-Setting to rotate map mode failed==Gagal mengubah ke mode rotasi peta
-Camera should be pointed towards earth surface when mode is set==Kamera harus diarahkan ke permukaan bumi saat mode ini aktif
-Switch to 3D map view. A limited number of map levels and tools available.==Ganti ke view peta 3D. Tingkatan peta dan tool yang tersedia terbatas.
-Return to default 2D map view.==Kembali ke view peta 2D default.
-Switch to 2D map view.==Ganti ke view peta 2D.
-Switch to 3D map view.==Ganti ke view peta 3D.
+Setting to rotate map mode failed==Gagal mengubah ke moda rotasi peta
+Camera should be pointed towards earth surface when mode is set==Kamera harus diarahkan ke permukaan bumi saat moda ini aktif
+Switch to 3D map view. A limited number of map levels and tools available.==Ganti ke tampilan peta 3D. Tingkatan peta dan alat yang tersedia terbatas.
+Return to default 2D map view.==Kembali ke tampilan peta 2D default.
+Switch to 2D map view.==Ganti ke tampilan peta 2D.
+Switch to 3D map view.==Ganti ke tampilan peta 3D.
 Polygon self-intersection is not allowed. Draw a valid polygon to see the measurement result.==Poligon tidak boleh bersinggungan dengan dirinya sendiri. Gambar poligon yang valid untuk melihat hasil pengukuran.
 Heatmap==Heatmap
 Heatmap settings==Setelan heatmap
@@ -801,7 +801,7 @@ Town==Kota
 Town district==Distrik kota
 Street==Jalan
 Notice==Perhatian
-Some layers added to this map view cannot be shown with the current map projection.==Beberapa layer yang ditambahkan ke view peta ini tidak dapat ditampilan dengan proyeksi peta saat ini.
+Some layers added to this map view cannot be shown with the current map projection.==Beberapa layer yang ditambahkan ke tampilan peta ini tidak dapat ditampilan dengan proyeksi peta saat ini.
 Map Layer cannot be shown.==Layer peta tidak dapat ditampilkan.
 Map layer cannot be shown in selected map projection.==Layer peta tidak dapat ditampilkan dalam proyeksi peta yang terpilih.
 Terms of Use==Syarat Penggunaan
@@ -815,8 +815,8 @@ Feature Data==Feature Data
 Features==Feature
 Web address==Alamat web
 No attributes to show, please open feature data to see hidden attributes.==Tidak ada atribut yang perlu ditampilkan, silakan buka feature data untuk melihat atribut yang tersembunyi.
-Move to previous view==Ke view sebelumnya
-Move to next view==Ke view berikutnya
+Move to previous view==Ke tampilan sebelumnya
+Move to next view==Ke tampilan berikutnya
 Delete all markers==Hapus semua marker
 Map Marker Style==Style Marker Peta
 Define a style for map markers.==Definisikan style untuk marker peta.
@@ -852,7 +852,7 @@ Scale updated==Skala diperbarui
 Layer not available on current zoom level==Layer tidak tersedia pada tingkat pembesaran saat ini
 Change the displayed time, for example, to see the shadows of the buildings at different time points==Ganti waktu yang ditampilkan, contoh, untuk melihat bayangan dari gedung pada titik waktu yang berbeda-beda.
 Present==Sekarang
-This map view cannot be linked to. Create a new map view and try again.==Tidak dapat membuat tautan ke view peta ini. Silakan buat view peta baru dan coba lagi.
+This map view cannot be linked to. Create a new map view and try again.==Tidak dapat membuat tautan ke tampilan peta ini. Silakan buat tampilan peta baru dan coba lagi.
 Move to thematic maps==Pindah ke peta tematik
 SEARCH DATA==DATA PENCARIAN
 No results found matching==Tidak ditemukan hasil yang cocok
@@ -979,22 +979,22 @@ Select Here==Pilih Disini
 {0} selected=={0} terpilih
 All {0} selected!==Semua {0} terpilih!
 No results found matching \"{0}\"==Tidak ditemukan hasil yang cocok dengan \"{0}\"
-Download basket==Keranjang download
+Download basket==Keranjang unduh
 Cropping==Crop
 Select a cropping option==Pilih cara crop
-Select the areas you wish to download data from by clicking them on the map. Cropping will include all the features, that intersect the cropping option. If the selected datasets are very large in file size, the processing may take some time. The datasets that have been added to the download basket, are now visible in the download basket -tab. You may remove the selection by clicking the selected areas again.==Pilih area yang datanya ingin Anda download dengan mengeklik pada peta. Jika dataset yang terpilih berukuran besar mungkin akan diperlukan beberapa saat untuk memproses. Dataset telah ditambahkan ke keranjang download dan dapat dilihat di tab keranjang download. Anda dapat membatalkan pilihan dengan mengeklik kembali area yang terpilih.
-Areas selected: <strong></strong> pcs, do you wish to move them to download basket?==Area terpilih: <strong></strong>, apakah Anda ingin menambahkan semua ke keranjang download?
-Move to download basket==Pindahkan ke keranjang download
+Select the areas you wish to download data from by clicking them on the map. Cropping will include all the features, that intersect the cropping option. If the selected datasets are very large in file size, the processing may take some time. The datasets that have been added to the download basket, are now visible in the download basket -tab. You may remove the selection by clicking the selected areas again.==Pilih area yang datanya ingin Anda download dengan mengeklik pada peta. Jika dataset yang terpilih berukuran besar mungkin akan diperlukan beberapa saat untuk memproses. Dataset telah ditambahkan ke keranjang unduh dan dapat dilihat di tab keranjang unduh. Anda dapat membatalkan pilihan dengan mengeklik kembali area yang terpilih.
+Areas selected: <strong></strong> pcs, do you wish to move them to download basket?==Area terpilih: <strong></strong>, apakah Anda ingin menambahkan semua ke keranjang unduh?
+Move to download basket==Pindahkan ke keranjang unduh
 Remove selection==Hapus pilihan
 Rectangle==Persegi panjang
 Area selection failed==Gagal memilih area
-Do you wish to add selected areas to the download basket?==Apakah Anda ingin menambahkan area yang terpilih ke keranjang download?
-You are about to switch between cropping options, do you wish to add selected areas to the download basket?==Anda akan mengganti cara crop, apakah Anda ingin menambah area yang terpilih ke keranjang download?
+Do you wish to add selected areas to the download basket?==Apakah Anda ingin menambahkan area yang terpilih ke keranjang unduh?
+You are about to switch between cropping options, do you wish to add selected areas to the download basket?==Anda akan mengganti cara crop, apakah Anda ingin menambah area yang terpilih ke keranjang unduh?
 Select a map layer==Pilih layer peta
 Select the layers you wish to download from the MAP LAYERS tab==Pilih layer yang ingin Anda download dari tab LAYER PETA
 Caution==Perhatian
 The map layer is currently not available for downloading.==Layer peta tidak tersedia untuk didownload.
-Your download basket is empty==Keranjang download Anda kosong
+Your download basket is empty==Keranjang unduh Anda kosong
 Empty==Kosong
 Download datasets==Download dataset
 Enter your e-mail address:==Masukkan alamat email Anda:
@@ -1010,9 +1010,9 @@ License: ==Lisensi:
 Content editor==Editor konten
 Choose feature from map to modify it.==Pilih feature pada peta untuk merubahnya.
 You can also choose multiple features from the map by pressing the ctrl-button on your keyboard.==Anda dapat memilih beberapa feature sekaligus dari peta dengan menekan tombol ctrl pada keyboard.
-Choose point, line or polygon tool to draw new geometries.==Pilih tool untuk titik, garis, atau poligon untuk menggambar geometri baru.
-With geometry editing tool you can edit feature geometry.==Anda dapat mengedit geometri feature dengan tool edit geometri.
-With geometry delete tool you can remove one geometry from feature with multiple geometries.==Dengan tool hapus geometri Anda dapat menghapus sebuah geometri dari feature yang memiliki banyak geometri.
+Choose point, line or polygon tool to draw new geometries.==Pilih alat untuk titik, garis, atau poligon untuk menggambar geometri baru.
+With geometry editing tool you can edit feature geometry.==Anda dapat mengedit geometri feature dengan alat edit geometri.
+With geometry delete tool you can remove one geometry from feature with multiple geometries.==Dengan alat hapus geometri Anda dapat menghapus sebuah geometri dari feature yang memiliki banyak geometri.
 Add feature==Tambah feature
 Edit feature==Edit feature
 Edit multiple features==Edit feature
@@ -1045,3 +1045,7 @@ Are you sure you want to set the given value for all the selected features?==Apa
 Cannot save all features==Tidak dapat menyimpan semua feature
 Change language==Ganti bahasa
 Change==Ganti
+Add organisation==Tambah organisasi
+Add a new organisation / data provider==Tambah organisasi / penyedia data baru
+Data Provider Name==Nama Penyedia Data
+Re-check all capabilities==Cek ulang semua kapabilitas
